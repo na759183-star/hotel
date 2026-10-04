@@ -1,0 +1,1001 @@
+Booking_ID,Hotel_Type,Booking_Date,Arrival_Date,Season,Room_Type,Customer_Type,Lead_Time_Days,Adults,Children,Nights,Meal_Plan,Booking_Channel,Market_Segment,Deposit_Type,Room_Rate,Previous_Cancellations,Special_Requests,Is_Canceled
+HB100001,City Hotel,2025-04-13,2025-06-20,Summer,Standard,Group,68,3,0,1,BB,Offline,Direct,No Deposit,90.68,1,0,0
+HB100002,City Hotel,2026-03-12,2026-04-12,Spring,Suite,Transient,31,2,0,5,BB,Online,Corporate,Non Refund,220.9,1,3,0
+HB100003,City Hotel,2025-09-28,2025-10-11,Autumn,Superior,Contract,13,4,2,1,BB,Online,Offline TA/TO,No Deposit,137.69,0,2,0
+HB100004,City Hotel,2025-04-17,2025-05-18,Spring,Superior,Transient,31,2,0,6,BB,Online,Online TA,No Deposit,146.01,0,0,0
+HB100005,City Hotel,2025-03-13,2025-03-21,Spring,Suite,Transient,8,2,1,3,BB,Agent,Online TA,No Deposit,177.62,0,2,0
+HB100006,Resort Hotel,2025-01-21,2025-01-31,Winter,Superior,Transient,10,2,0,6,SC,Online,Online TA,Non Refund,166.14,0,1,0
+HB100007,Resort Hotel,2026-09-07,2026-10-12,Autumn,Standard,Transient,35,3,0,3,BB,Offline,Online TA,No Deposit,93.8,0,0,0
+HB100008,City Hotel,2025-05-02,2025-05-30,Spring,Deluxe,Contract,28,1,0,2,BB,Agent,Offline TA/TO,No Deposit,118.0,0,2,0
+HB100009,Resort Hotel,2026-04-12,2026-08-06,Summer,Deluxe,Transient,116,4,2,3,BB,Offline,Direct,No Deposit,137.58,0,2,0
+HB100010,Resort Hotel,2025-08-03,2025-08-26,Summer,Deluxe,Transient,23,1,0,5,BB,Online,Online TA,No Deposit,130.77,0,0,0
+HB100011,City Hotel,2025-11-27,2026-01-11,Winter,Superior,Transient,45,2,0,4,HB,Online,Offline TA/TO,No Deposit,132.31,0,2,0
+HB100012,Resort Hotel,2026-04-04,2026-05-25,Spring,Superior,Transient,51,2,0,1,SC,Online,Online TA,No Deposit,170.95,0,0,0
+HB100013,Resort Hotel,2025-03-29,2025-03-29,Spring,Deluxe,Transient,0,2,0,2,BB,Agent,Online TA,No Deposit,131.8,0,1,0
+HB100014,Resort Hotel,2026-01-08,2026-03-05,Spring,Standard,Transient,56,2,0,3,HB,Corporate,Online TA,No Deposit,84.39,2,1,1
+HB100015,Resort Hotel,2025-04-10,2025-04-20,Spring,Standard,Transient-Party,10,3,1,1,BB,Online,Online TA,No Deposit,91.16,0,0,0
+HB100016,City Hotel,2025-05-11,2025-09-30,Autumn,Superior,Transient,142,2,0,3,BB,Online,Direct,No Deposit,169.93,0,0,1
+HB100017,Resort Hotel,2025-11-05,2025-11-13,Autumn,Standard,Contract,8,3,1,1,BB,Online,Corporate,No Deposit,92.89,3,2,0
+HB100018,City Hotel,2025-12-10,2026-01-07,Winter,Deluxe,Transient,28,2,1,9,BB,Offline,Direct,No Deposit,92.46,0,0,0
+HB100019,City Hotel,2026-05-07,2026-05-11,Spring,Standard,Transient-Party,4,3,0,6,BB,Online,Direct,No Deposit,89.51,0,4,0
+HB100020,City Hotel,2026-02-18,2026-08-13,Summer,Deluxe,Transient,176,3,1,3,BB,Offline,Online TA,No Deposit,150.59,0,4,1
+HB100021,City Hotel,2026-01-21,2026-02-26,Winter,Deluxe,Transient,36,3,1,1,BB,Online,Offline TA/TO,No Deposit,110.01,0,2,0
+HB100022,Resort Hotel,2025-07-11,2025-08-26,Summer,Deluxe,Transient-Party,46,3,0,1,BB,Online,Offline TA/TO,No Deposit,150.92,1,0,0
+HB100023,City Hotel,2025-10-04,2025-10-07,Autumn,Superior,Transient,3,2,2,3,BB,Online,Direct,No Deposit,135.76,0,0,0
+HB100024,City Hotel,2025-06-10,2025-08-19,Summer,Standard,Transient-Party,70,2,0,1,BB,Offline,Direct,Non Refund,81.19,0,1,0
+HB100025,City Hotel,2026-04-05,2026-04-17,Spring,Deluxe,Transient,12,2,0,2,FB,Offline,Offline TA/TO,No Deposit,120.8,0,1,0
+HB100026,Resort Hotel,2025-11-10,2026-02-27,Winter,Superior,Transient-Party,109,3,1,5,BB,Agent,Online TA,Non Refund,120.64,2,2,1
+HB100027,City Hotel,2025-01-22,2025-02-03,Winter,Standard,Transient,12,1,0,2,BB,Online,Online TA,No Deposit,77.3,0,0,0
+HB100028,City Hotel,2025-09-10,2025-09-21,Autumn,Deluxe,Transient,11,2,1,1,FB,Online,Online TA,No Deposit,122.58,3,2,0
+HB100029,City Hotel,2026-07-15,2026-07-16,Summer,Standard,Transient,1,3,0,3,FB,Offline,Direct,No Deposit,93.55,0,1,0
+HB100030,Resort Hotel,2026-04-20,2026-05-23,Spring,Deluxe,Transient,33,2,0,2,BB,Agent,Online TA,Non Refund,116.17,0,3,0
+HB100031,City Hotel,2025-02-28,2025-04-12,Spring,Standard,Transient,43,2,0,9,BB,Online,Online TA,No Deposit,74.73,0,0,0
+HB100032,City Hotel,2026-05-26,2026-05-29,Spring,Standard,Transient,3,2,1,3,BB,Online,Online TA,No Deposit,79.39,0,3,0
+HB100033,Resort Hotel,2026-04-21,2026-07-05,Summer,Standard,Transient,75,4,0,2,HB,Online,Direct,No Deposit,99.83,0,1,0
+HB100034,Resort Hotel,2025-07-09,2025-08-09,Summer,Superior,Group,31,1,0,1,HB,Online,Direct,No Deposit,188.96,0,0,0
+HB100035,Resort Hotel,2026-07-17,2026-08-24,Summer,Standard,Contract,38,4,0,4,BB,Online,Online TA,Non Refund,98.73,0,0,0
+HB100036,City Hotel,2026-07-21,2026-08-20,Summer,Superior,Transient,30,2,0,2,FB,Online,Offline TA/TO,No Deposit,157.97,0,1,0
+HB100037,Resort Hotel,2025-09-01,2025-09-27,Autumn,Superior,Transient,26,2,0,2,HB,Agent,Online TA,Non Refund,182.58,0,2,0
+HB100038,Resort Hotel,2026-05-20,2026-07-01,Summer,Standard,Transient,42,2,0,1,BB,Offline,Direct,No Deposit,101.04,0,2,1
+HB100039,City Hotel,2025-05-11,2025-05-19,Spring,Deluxe,Transient,8,2,0,2,BB,Online,Online TA,No Deposit,98.09,3,1,0
+HB100040,Resort Hotel,2026-04-30,2026-05-10,Spring,Deluxe,Group,10,2,0,1,BB,Online,Online TA,No Deposit,126.35,0,0,0
+HB100041,Resort Hotel,2025-01-21,2025-04-28,Spring,Superior,Transient,97,4,0,2,HB,Corporate,Online TA,No Deposit,143.17,0,0,0
+HB100042,City Hotel,2025-06-16,2025-10-26,Autumn,Deluxe,Transient,132,2,0,9,BB,Online,Online TA,No Deposit,121.6,0,1,0
+HB100043,City Hotel,2025-10-01,2025-10-25,Autumn,Standard,Group,24,2,0,2,FB,Offline,Offline TA/TO,Refundable,74.31,0,1,0
+HB100044,City Hotel,2026-01-23,2026-02-08,Winter,Deluxe,Transient-Party,16,3,0,6,BB,Agent,Online TA,No Deposit,117.08,0,1,0
+HB100045,City Hotel,2026-08-24,2026-10-16,Autumn,Standard,Transient,53,2,0,3,BB,Agent,Online TA,Non Refund,97.78,3,1,1
+HB100046,City Hotel,2025-11-12,2025-12-09,Winter,Standard,Transient,27,3,0,6,HB,Online,Direct,No Deposit,73.65,0,1,0
+HB100047,City Hotel,2025-01-14,2025-01-15,Winter,Superior,Transient,1,3,0,1,BB,Online,Online TA,Non Refund,152.16,0,4,0
+HB100048,Resort Hotel,2025-08-30,2025-09-07,Autumn,Superior,Transient-Party,8,3,0,4,HB,Online,Direct,No Deposit,185.67,0,0,0
+HB100049,Resort Hotel,2025-12-12,2026-02-14,Winter,Standard,Transient,64,1,2,3,BB,Agent,Corporate,No Deposit,75.63,0,1,1
+HB100050,Resort Hotel,2026-07-19,2026-09-12,Autumn,Standard,Transient,55,4,0,7,BB,Online,Direct,Refundable,88.91,0,0,0
+HB100051,Resort Hotel,2025-12-06,2025-12-07,Winter,Deluxe,Transient,1,2,0,1,FB,Online,Online TA,Non Refund,117.06,0,2,0
+HB100052,City Hotel,2025-04-02,2025-04-15,Spring,Standard,Contract,13,2,0,1,BB,Online,Online TA,No Deposit,85.46,0,0,0
+HB100053,City Hotel,2026-01-02,2026-01-15,Winter,Standard,Transient-Party,13,2,0,2,BB,Online,Direct,Non Refund,69.32,1,0,0
+HB100054,City Hotel,2026-03-31,2026-05-27,Spring,Standard,Group,57,2,0,4,BB,Agent,Offline TA/TO,Refundable,66.33,0,2,0
+HB100055,City Hotel,2026-03-04,2026-03-05,Spring,Deluxe,Transient,1,1,0,8,BB,Agent,Direct,No Deposit,108.01,0,1,0
+HB100056,Resort Hotel,2026-05-24,2026-05-29,Spring,Superior,Transient,5,2,0,6,HB,Agent,Online TA,No Deposit,137.05,0,1,0
+HB100057,City Hotel,2025-02-04,2025-04-25,Spring,Standard,Transient,80,3,0,2,BB,Agent,Online TA,Non Refund,67.71,0,1,1
+HB100058,Resort Hotel,2025-07-25,2025-08-04,Summer,Standard,Transient,10,2,0,3,BB,Online,Offline TA/TO,No Deposit,86.9,0,3,0
+HB100059,City Hotel,2025-03-22,2025-05-15,Spring,Superior,Transient,54,3,1,1,SC,Online,Online TA,No Deposit,129.16,0,0,0
+HB100060,Resort Hotel,2026-07-16,2026-07-30,Summer,Standard,Transient,14,1,1,5,BB,Corporate,Direct,No Deposit,112.79,0,1,0
+HB100061,Resort Hotel,2026-01-23,2026-01-28,Winter,Deluxe,Contract,5,4,1,10,BB,Online,Groups,No Deposit,112.09,2,0,1
+HB100062,Resort Hotel,2025-01-02,2025-01-16,Winter,Deluxe,Contract,14,2,0,4,BB,Online,Direct,No Deposit,101.87,0,3,0
+HB100063,City Hotel,2026-01-25,2026-03-31,Spring,Standard,Transient,65,2,2,3,BB,Offline,Online TA,No Deposit,72.43,0,1,0
+HB100064,City Hotel,2026-07-20,2026-10-23,Autumn,Deluxe,Transient,95,2,0,5,BB,Online,Online TA,Refundable,138.04,1,2,1
+HB100065,City Hotel,2025-04-16,2025-07-13,Summer,Suite,Transient,88,2,0,1,SC,Online,Online TA,Non Refund,248.8,3,0,0
+HB100066,City Hotel,2026-04-22,2026-05-18,Spring,Deluxe,Group,26,3,0,3,HB,Online,Offline TA/TO,No Deposit,113.85,0,1,1
+HB100067,Resort Hotel,2026-02-06,2026-04-03,Spring,Standard,Transient-Party,56,2,1,4,BB,Offline,Online TA,No Deposit,74.16,0,0,1
+HB100068,Resort Hotel,2026-07-10,2026-07-22,Summer,Standard,Transient-Party,12,2,0,4,SC,Online,Direct,Non Refund,117.43,2,1,1
+HB100069,City Hotel,2025-06-11,2025-06-29,Summer,Standard,Transient,18,2,0,1,BB,Online,Corporate,No Deposit,81.37,0,0,0
+HB100070,City Hotel,2025-07-21,2025-11-07,Autumn,Deluxe,Transient,109,2,1,8,BB,Agent,Online TA,No Deposit,134.6,0,2,0
+HB100071,City Hotel,2025-09-27,2025-09-27,Autumn,Standard,Transient,0,1,2,3,HB,Online,Online TA,No Deposit,84.82,1,2,0
+HB100072,City Hotel,2025-09-28,2025-10-02,Autumn,Standard,Transient-Party,4,1,0,4,BB,Online,Online TA,Refundable,73.19,0,1,0
+HB100073,Resort Hotel,2026-04-01,2026-04-13,Spring,Standard,Transient,12,2,0,4,BB,Agent,Groups,No Deposit,95.07,0,0,0
+HB100074,Resort Hotel,2026-04-07,2026-04-08,Spring,Standard,Transient-Party,1,2,0,4,HB,Corporate,Direct,Non Refund,73.69,0,2,0
+HB100075,City Hotel,2025-09-09,2025-09-19,Autumn,Standard,Transient,10,3,0,3,BB,Online,Direct,No Deposit,87.64,0,3,0
+HB100076,City Hotel,2025-10-23,2025-12-07,Winter,Suite,Transient,45,3,0,2,HB,Agent,Online TA,Non Refund,177.26,2,2,0
+HB100077,City Hotel,2025-12-04,2026-01-01,Winter,Deluxe,Transient,28,2,0,5,BB,Agent,Direct,No Deposit,86.06,0,3,0
+HB100078,City Hotel,2025-02-22,2025-06-09,Summer,Deluxe,Group,107,3,0,5,BB,Online,Direct,No Deposit,132.97,0,0,0
+HB100079,Resort Hotel,2025-08-05,2025-10-29,Autumn,Superior,Transient,85,2,1,7,HB,Online,Offline TA/TO,No Deposit,140.43,0,0,0
+HB100080,Resort Hotel,2025-07-07,2025-07-28,Summer,Deluxe,Transient,21,3,0,2,HB,Online,Online TA,Refundable,149.7,0,0,0
+HB100081,City Hotel,2026-01-15,2026-01-30,Winter,Deluxe,Transient,15,2,0,2,BB,Agent,Online TA,Refundable,118.29,0,1,0
+HB100082,Resort Hotel,2026-05-08,2026-06-02,Summer,Superior,Transient,25,2,0,2,BB,Online,Online TA,No Deposit,169.04,0,1,1
+HB100083,Resort Hotel,2025-02-10,2025-03-28,Spring,Suite,Transient,46,2,0,1,BB,Offline,Offline TA/TO,No Deposit,245.76,0,1,0
+HB100084,Resort Hotel,2025-06-06,2025-06-22,Summer,Deluxe,Transient-Party,16,4,1,6,SC,Online,Online TA,No Deposit,127.54,0,2,1
+HB100085,City Hotel,2025-01-15,2025-03-06,Spring,Standard,Transient,50,2,0,9,SC,Online,Direct,Non Refund,68.83,0,1,0
+HB100086,Resort Hotel,2025-03-06,2025-04-02,Spring,Standard,Transient,27,2,0,1,HB,Online,Offline TA/TO,Non Refund,91.34,0,0,1
+HB100087,Resort Hotel,2026-06-05,2026-07-16,Summer,Standard,Transient,41,3,0,4,BB,Online,Offline TA/TO,Non Refund,89.29,2,2,0
+HB100088,City Hotel,2025-12-10,2026-01-08,Winter,Standard,Transient,29,1,0,7,HB,Agent,Offline TA/TO,Non Refund,76.96,0,0,0
+HB100089,City Hotel,2025-05-09,2025-05-27,Spring,Deluxe,Transient,18,2,0,8,BB,Agent,Online TA,No Deposit,92.69,1,0,0
+HB100090,City Hotel,2026-04-17,2026-08-29,Summer,Standard,Transient,134,2,0,1,FB,Online,Direct,No Deposit,85.12,0,0,0
+HB100091,City Hotel,2025-03-04,2025-05-16,Spring,Deluxe,Transient,73,2,0,2,BB,Online,Online TA,Non Refund,102.86,1,2,0
+HB100092,Resort Hotel,2025-05-19,2025-05-26,Spring,Standard,Transient,7,2,0,3,SC,Agent,Online TA,Non Refund,76.89,1,1,0
+HB100093,Resort Hotel,2026-05-14,2026-08-21,Summer,Deluxe,Transient,99,2,0,1,BB,Online,Direct,No Deposit,118.33,0,2,1
+HB100094,Resort Hotel,2026-08-16,2026-09-19,Autumn,Standard,Transient-Party,34,2,0,3,BB,Online,Online TA,No Deposit,86.57,0,1,0
+HB100095,City Hotel,2026-01-27,2026-05-15,Spring,Deluxe,Transient,108,3,0,3,BB,Online,Direct,No Deposit,104.9,1,1,0
+HB100096,Resort Hotel,2026-02-23,2026-05-14,Spring,Standard,Transient,80,3,0,3,BB,Online,Online TA,No Deposit,83.15,0,2,0
+HB100097,City Hotel,2025-10-16,2025-11-13,Autumn,Deluxe,Transient,28,3,1,5,BB,Agent,Offline TA/TO,No Deposit,118.79,0,2,0
+HB100098,City Hotel,2026-01-14,2026-01-15,Winter,Deluxe,Transient,1,2,0,6,BB,Agent,Corporate,No Deposit,98.63,0,3,1
+HB100099,Resort Hotel,2026-05-05,2026-05-21,Spring,Superior,Transient,16,2,0,2,SC,Online,Online TA,No Deposit,129.83,0,1,0
+HB100100,Resort Hotel,2025-08-19,2025-09-28,Autumn,Standard,Transient,40,3,0,1,BB,Online,Direct,Non Refund,102.56,0,2,0
+HB100101,Resort Hotel,2025-02-10,2025-04-02,Spring,Deluxe,Transient,51,3,1,7,HB,Online,Online TA,No Deposit,126.45,0,1,0
+HB100102,Resort Hotel,2025-01-28,2025-02-12,Winter,Deluxe,Transient,15,2,0,2,BB,Online,Online TA,No Deposit,125.15,0,0,0
+HB100103,City Hotel,2025-05-15,2025-05-22,Spring,Deluxe,Contract,7,4,0,2,BB,Agent,Online TA,No Deposit,99.9,0,1,0
+HB100104,City Hotel,2025-07-20,2025-10-17,Autumn,Superior,Contract,89,2,0,2,HB,Online,Online TA,No Deposit,130.98,0,0,0
+HB100105,Resort Hotel,2025-02-02,2025-07-14,Summer,Deluxe,Transient,162,3,3,5,FB,Agent,Online TA,No Deposit,157.02,0,1,0
+HB100106,Resort Hotel,2025-02-17,2025-03-27,Spring,Superior,Contract,38,1,0,1,HB,Corporate,Online TA,No Deposit,127.56,0,2,0
+HB100107,Resort Hotel,2026-05-18,2026-05-27,Spring,Standard,Contract,9,3,0,3,BB,Agent,Online TA,Refundable,88.85,1,1,0
+HB100108,Resort Hotel,2026-02-11,2026-02-27,Winter,Deluxe,Transient,16,4,0,3,BB,Offline,Corporate,Non Refund,100.14,3,4,0
+HB100109,City Hotel,2026-07-28,2026-07-28,Summer,Standard,Transient,0,4,0,3,BB,Offline,Online TA,No Deposit,101.65,0,1,0
+HB100110,City Hotel,2025-04-09,2025-08-03,Summer,Standard,Transient,116,2,0,5,BB,Offline,Direct,Refundable,99.13,0,2,0
+HB100111,City Hotel,2026-07-01,2026-07-07,Summer,Standard,Transient,6,2,0,2,BB,Online,Corporate,No Deposit,81.77,0,1,0
+HB100112,City Hotel,2026-09-05,2026-10-19,Autumn,Deluxe,Transient,44,3,0,5,HB,Agent,Online TA,Refundable,138.66,0,2,0
+HB100113,City Hotel,2026-04-07,2026-04-23,Spring,Standard,Transient,16,3,2,1,BB,Corporate,Direct,No Deposit,76.13,0,0,0
+HB100114,Resort Hotel,2025-01-05,2025-02-15,Winter,Standard,Transient,41,2,0,5,SC,Agent,Groups,No Deposit,76.33,0,0,0
+HB100115,City Hotel,2025-08-06,2025-09-29,Autumn,Standard,Transient,54,3,0,1,HB,Online,Online TA,No Deposit,86.95,0,1,0
+HB100116,City Hotel,2026-05-18,2026-08-14,Summer,Standard,Transient,88,2,0,5,BB,Online,Online TA,No Deposit,81.93,0,1,0
+HB100117,City Hotel,2026-02-02,2026-02-14,Winter,Superior,Transient,12,3,0,1,BB,Agent,Groups,Non Refund,132.0,0,1,0
+HB100118,City Hotel,2026-01-28,2026-01-28,Winter,Standard,Transient,0,2,2,1,BB,Agent,Online TA,No Deposit,76.56,0,1,0
+HB100119,Resort Hotel,2025-07-26,2025-08-02,Summer,Deluxe,Transient,7,2,0,5,BB,Online,Online TA,No Deposit,131.35,1,3,0
+HB100120,City Hotel,2025-01-15,2025-05-05,Spring,Standard,Transient,110,2,0,1,BB,Agent,Direct,No Deposit,71.82,1,0,0
+HB100121,City Hotel,2026-07-08,2026-10-17,Autumn,Deluxe,Contract,101,2,0,7,BB,Online,Online TA,Non Refund,101.51,0,0,0
+HB100122,City Hotel,2026-04-06,2026-05-23,Spring,Superior,Transient,47,4,1,2,BB,Online,Offline TA/TO,No Deposit,154.71,0,0,0
+HB100123,City Hotel,2026-07-29,2026-09-14,Autumn,Superior,Transient,47,2,0,5,BB,Online,Online TA,No Deposit,137.49,0,1,0
+HB100124,Resort Hotel,2025-08-29,2025-10-24,Autumn,Deluxe,Transient,56,2,1,1,BB,Online,Direct,Refundable,140.35,0,1,0
+HB100125,Resort Hotel,2026-07-18,2026-07-28,Summer,Standard,Transient-Party,10,2,0,9,BB,Agent,Online TA,No Deposit,109.01,2,0,0
+HB100126,City Hotel,2025-04-06,2025-07-31,Summer,Suite,Transient-Party,116,4,0,4,HB,Online,Online TA,No Deposit,255.33,0,4,1
+HB100127,Resort Hotel,2026-04-30,2026-05-28,Spring,Standard,Transient,28,2,2,1,HB,Corporate,Online TA,Refundable,74.08,0,1,0
+HB100128,City Hotel,2026-02-11,2026-03-08,Spring,Standard,Transient,25,2,2,5,BB,Agent,Direct,No Deposit,85.68,0,0,0
+HB100129,Resort Hotel,2025-08-19,2025-09-26,Autumn,Superior,Transient-Party,38,2,0,1,FB,Online,Direct,Non Refund,158.33,0,2,0
+HB100130,Resort Hotel,2025-06-20,2025-06-22,Summer,Deluxe,Transient,2,2,0,7,BB,Online,Online TA,Non Refund,134.03,0,1,0
+HB100131,City Hotel,2026-06-25,2026-07-04,Summer,Superior,Transient,9,3,0,3,BB,Online,Direct,No Deposit,167.27,0,4,0
+HB100132,City Hotel,2025-02-05,2025-04-14,Spring,Standard,Transient,68,2,0,8,BB,Online,Online TA,No Deposit,87.26,3,0,1
+HB100133,Resort Hotel,2026-06-09,2026-06-13,Summer,Standard,Transient,4,2,0,2,BB,Online,Offline TA/TO,No Deposit,114.25,1,1,0
+HB100134,Resort Hotel,2025-06-09,2025-07-26,Summer,Standard,Transient,47,2,0,5,BB,Online,Direct,Refundable,114.25,0,1,1
+HB100135,City Hotel,2025-08-31,2025-09-14,Autumn,Deluxe,Transient,14,2,0,9,BB,Online,Online TA,No Deposit,121.78,0,0,0
+HB100136,City Hotel,2025-03-27,2025-04-21,Spring,Deluxe,Transient,25,3,1,3,BB,Online,Online TA,No Deposit,103.55,0,0,0
+HB100137,City Hotel,2026-08-01,2026-08-18,Summer,Standard,Transient,17,1,0,1,BB,Online,Direct,Non Refund,107.52,0,0,0
+HB100138,Resort Hotel,2026-07-11,2026-08-03,Summer,Superior,Transient-Party,23,2,1,3,FB,Offline,Offline TA/TO,No Deposit,193.34,0,2,0
+HB100139,City Hotel,2026-07-28,2026-09-30,Autumn,Superior,Transient,64,3,0,3,BB,Agent,Online TA,No Deposit,144.91,0,0,1
+HB100140,City Hotel,2025-01-28,2025-02-15,Winter,Suite,Transient,18,3,2,2,HB,Online,Direct,No Deposit,204.52,0,4,0
+HB100141,City Hotel,2026-09-12,2026-10-25,Autumn,Standard,Transient-Party,43,2,0,2,BB,Offline,Online TA,Non Refund,77.74,0,1,1
+HB100142,Resort Hotel,2026-07-10,2026-08-12,Summer,Standard,Transient,33,2,0,5,BB,Offline,Online TA,Refundable,119.33,0,0,0
+HB100143,Resort Hotel,2025-12-06,2026-01-31,Winter,Standard,Transient,56,1,1,2,BB,Online,Offline TA/TO,No Deposit,68.81,0,1,0
+HB100144,City Hotel,2025-11-27,2026-04-03,Spring,Standard,Transient-Party,127,2,1,5,BB,Online,Online TA,No Deposit,71.98,0,2,0
+HB100145,Resort Hotel,2026-05-21,2026-07-27,Summer,Superior,Transient,67,2,0,2,BB,Agent,Online TA,Non Refund,176.53,0,0,0
+HB100146,Resort Hotel,2025-12-14,2025-12-26,Winter,Standard,Transient,12,1,0,2,BB,Online,Direct,Non Refund,86.09,0,1,0
+HB100147,Resort Hotel,2026-04-18,2026-04-19,Spring,Standard,Transient,1,2,1,2,BB,Offline,Direct,No Deposit,75.85,0,1,1
+HB100148,City Hotel,2025-08-19,2025-09-04,Autumn,Standard,Group,16,2,1,2,SC,Agent,Direct,No Deposit,86.47,0,1,0
+HB100149,City Hotel,2025-07-09,2025-08-24,Summer,Standard,Transient-Party,46,3,0,5,BB,Agent,Offline TA/TO,No Deposit,81.4,1,4,0
+HB100150,Resort Hotel,2025-08-13,2025-08-15,Summer,Superior,Transient,2,3,0,4,BB,Corporate,Direct,No Deposit,188.39,0,1,0
+HB100151,City Hotel,2026-01-20,2026-02-24,Winter,Standard,Transient,35,2,0,1,BB,Offline,Direct,No Deposit,77.49,1,0,0
+HB100152,City Hotel,2026-01-12,2026-02-28,Winter,Standard,Transient,47,1,0,2,BB,Online,Online TA,Refundable,76.08,0,0,1
+HB100153,City Hotel,2025-10-10,2025-10-31,Autumn,Deluxe,Transient,21,2,0,7,BB,Online,Online TA,No Deposit,115.74,0,2,0
+HB100154,City Hotel,2026-09-25,2026-12-08,Winter,Superior,Transient,74,1,0,1,BB,Corporate,Online TA,Non Refund,139.43,0,1,0
+HB100155,City Hotel,2026-09-20,2026-09-25,Autumn,Deluxe,Transient,5,3,0,1,BB,Online,Direct,No Deposit,115.56,0,2,0
+HB100156,Resort Hotel,2025-09-16,2025-09-20,Autumn,Standard,Transient,4,2,0,1,BB,Agent,Groups,No Deposit,95.88,0,1,1
+HB100157,Resort Hotel,2025-12-25,2026-03-01,Spring,Standard,Transient,66,3,3,3,SC,Online,Offline TA/TO,No Deposit,94.07,0,0,0
+HB100158,Resort Hotel,2026-04-01,2026-05-06,Spring,Standard,Transient,35,3,1,6,BB,Online,Direct,No Deposit,85.39,0,1,0
+HB100159,Resort Hotel,2026-02-15,2026-04-15,Spring,Deluxe,Transient-Party,59,2,0,3,BB,Online,Groups,No Deposit,118.2,0,0,0
+HB100160,Resort Hotel,2025-11-14,2025-12-13,Winter,Deluxe,Transient-Party,29,2,0,3,BB,Online,Direct,No Deposit,124.79,1,1,0
+HB100161,City Hotel,2025-08-13,2025-08-27,Summer,Standard,Transient,14,1,0,1,BB,Online,Corporate,No Deposit,104.01,0,0,0
+HB100162,City Hotel,2025-08-22,2025-11-15,Autumn,Standard,Transient-Party,85,4,0,1,BB,Online,Offline TA/TO,Refundable,82.83,0,0,0
+HB100163,Resort Hotel,2026-01-09,2026-03-30,Spring,Standard,Transient,80,2,0,3,FB,Online,Online TA,Refundable,73.22,1,3,1
+HB100164,City Hotel,2026-08-31,2026-10-30,Autumn,Deluxe,Transient,60,2,0,4,BB,Online,Online TA,Non Refund,108.06,0,1,0
+HB100165,Resort Hotel,2026-04-17,2026-05-03,Spring,Superior,Transient,16,2,0,1,BB,Online,Corporate,Refundable,133.89,0,1,0
+HB100166,City Hotel,2025-08-21,2025-10-06,Autumn,Superior,Transient,46,3,0,8,BB,Offline,Direct,Non Refund,135.66,1,3,1
+HB100167,Resort Hotel,2025-04-23,2025-05-16,Spring,Deluxe,Transient,23,3,2,1,SC,Offline,Offline TA/TO,No Deposit,134.93,0,2,0
+HB100168,City Hotel,2026-05-12,2026-05-17,Spring,Standard,Transient,5,2,0,1,BB,Agent,Online TA,Non Refund,87.31,1,1,0
+HB100169,City Hotel,2026-03-18,2026-07-14,Summer,Deluxe,Contract,118,2,0,1,BB,Online,Groups,No Deposit,136.07,0,0,0
+HB100170,City Hotel,2026-07-18,2026-07-25,Summer,Standard,Transient,7,2,0,2,BB,Online,Online TA,No Deposit,81.75,0,1,0
+HB100171,Resort Hotel,2025-09-25,2026-02-07,Winter,Deluxe,Transient,135,3,0,8,BB,Online,Offline TA/TO,No Deposit,94.28,0,0,0
+HB100172,Resort Hotel,2026-05-25,2026-06-24,Summer,Suite,Transient-Party,30,2,0,3,BB,Online,Online TA,Refundable,237.07,0,4,0
+HB100173,Resort Hotel,2026-01-21,2026-01-31,Winter,Deluxe,Transient,10,2,0,2,BB,Offline,Direct,Refundable,93.4,0,0,0
+HB100174,City Hotel,2026-01-22,2026-03-03,Spring,Standard,Transient,40,3,0,3,BB,Online,Online TA,No Deposit,78.43,1,0,0
+HB100175,City Hotel,2025-04-23,2025-08-01,Summer,Standard,Transient-Party,100,2,2,1,HB,Online,Online TA,No Deposit,105.02,0,2,0
+HB100176,City Hotel,2026-09-05,2026-11-11,Autumn,Superior,Transient,67,2,0,3,BB,Online,Online TA,No Deposit,179.48,0,1,1
+HB100177,City Hotel,2026-09-17,2026-12-08,Winter,Superior,Transient-Party,82,2,0,2,SC,Online,Online TA,No Deposit,126.33,0,1,0
+HB100178,City Hotel,2025-03-22,2025-05-16,Spring,Standard,Contract,55,2,0,4,BB,Online,Direct,No Deposit,80.8,1,2,1
+HB100179,Resort Hotel,2025-04-23,2025-06-22,Summer,Standard,Transient,60,2,0,4,BB,Online,Online TA,No Deposit,87.37,0,3,1
+HB100180,City Hotel,2025-01-02,2025-04-05,Spring,Deluxe,Transient,93,1,1,3,BB,Agent,Online TA,Non Refund,121.71,0,2,0
+HB100181,City Hotel,2025-08-08,2025-08-23,Summer,Standard,Transient,15,2,0,2,BB,Online,Online TA,No Deposit,99.31,0,0,0
+HB100182,Resort Hotel,2026-07-20,2026-08-24,Summer,Standard,Contract,35,3,2,1,BB,Offline,Direct,No Deposit,91.74,1,1,0
+HB100183,City Hotel,2025-08-13,2025-08-26,Summer,Suite,Contract,13,2,1,1,BB,Agent,Online TA,No Deposit,217.55,0,2,0
+HB100184,City Hotel,2026-01-20,2026-07-04,Summer,Superior,Transient,165,2,2,2,BB,Online,Groups,No Deposit,184.76,0,1,1
+HB100185,City Hotel,2026-02-07,2026-06-18,Summer,Superior,Transient,131,2,0,4,BB,Online,Online TA,Non Refund,154.52,0,0,0
+HB100186,Resort Hotel,2026-09-30,2026-10-02,Autumn,Superior,Transient-Party,2,2,0,1,HB,Online,Groups,Non Refund,166.15,0,0,0
+HB100187,Resort Hotel,2025-05-10,2025-07-11,Summer,Superior,Transient-Party,62,4,0,2,HB,Online,Direct,No Deposit,182.83,0,1,0
+HB100188,City Hotel,2025-02-22,2025-06-23,Summer,Standard,Group,121,3,2,2,BB,Offline,Direct,No Deposit,106.87,0,2,0
+HB100189,City Hotel,2026-02-20,2026-03-02,Spring,Standard,Transient,10,2,0,5,BB,Online,Direct,No Deposit,80.33,0,2,0
+HB100190,City Hotel,2025-09-04,2025-10-17,Autumn,Superior,Transient,43,2,0,6,BB,Agent,Direct,No Deposit,165.86,0,1,0
+HB100191,City Hotel,2026-03-15,2026-07-10,Summer,Deluxe,Transient,117,3,0,1,BB,Corporate,Online TA,No Deposit,109.94,0,3,0
+HB100192,City Hotel,2025-07-22,2025-07-23,Summer,Deluxe,Transient-Party,1,4,0,1,BB,Online,Online TA,Non Refund,137.67,0,1,1
+HB100193,City Hotel,2025-07-03,2025-09-02,Autumn,Deluxe,Transient,61,2,0,3,BB,Online,Direct,No Deposit,138.6,0,3,0
+HB100194,Resort Hotel,2025-05-03,2025-05-21,Spring,Standard,Transient,18,2,0,1,FB,Agent,Direct,No Deposit,91.61,1,1,0
+HB100195,Resort Hotel,2026-02-05,2026-06-06,Summer,Deluxe,Transient,121,2,0,1,BB,Online,Groups,No Deposit,120.03,0,2,0
+HB100196,City Hotel,2025-10-21,2026-03-20,Spring,Superior,Transient-Party,150,4,0,10,BB,Agent,Offline TA/TO,Non Refund,151.39,0,1,1
+HB100197,City Hotel,2025-10-07,2026-02-15,Winter,Standard,Transient,131,2,1,1,BB,Online,Direct,No Deposit,70.23,0,0,0
+HB100198,Resort Hotel,2026-09-02,2026-10-05,Autumn,Standard,Transient,33,2,0,8,HB,Agent,Offline TA/TO,No Deposit,80.89,0,0,0
+HB100199,Resort Hotel,2025-07-17,2025-10-22,Autumn,Deluxe,Transient,97,3,0,1,BB,Agent,Online TA,Non Refund,148.0,0,2,1
+HB100200,City Hotel,2026-05-26,2026-08-26,Summer,Superior,Transient-Party,92,2,0,2,FB,Agent,Corporate,No Deposit,162.49,0,1,1
+HB100201,Resort Hotel,2025-05-24,2025-06-13,Summer,Deluxe,Contract,20,2,0,2,HB,Offline,Online TA,Refundable,137.22,0,0,0
+HB100202,Resort Hotel,2026-09-01,2026-11-27,Autumn,Standard,Transient,87,2,3,2,SC,Online,Direct,No Deposit,102.83,0,1,0
+HB100203,City Hotel,2025-07-20,2025-07-21,Summer,Superior,Transient,1,2,0,2,HB,Online,Online TA,No Deposit,149.91,0,2,0
+HB100204,Resort Hotel,2025-05-04,2025-06-19,Summer,Standard,Transient,46,3,0,2,BB,Agent,Online TA,No Deposit,113.49,0,0,0
+HB100205,Resort Hotel,2025-07-06,2025-07-19,Summer,Deluxe,Transient,13,2,0,1,BB,Offline,Online TA,No Deposit,131.92,0,3,0
+HB100206,Resort Hotel,2025-11-22,2025-11-28,Autumn,Suite,Transient,6,2,1,3,SC,Online,Direct,No Deposit,238.61,0,0,0
+HB100207,City Hotel,2026-04-09,2026-04-13,Spring,Standard,Group,4,1,0,2,HB,Offline,Corporate,No Deposit,72.05,0,3,0
+HB100208,Resort Hotel,2025-12-15,2026-02-14,Winter,Deluxe,Transient,61,3,0,2,FB,Online,Direct,No Deposit,123.02,0,2,0
+HB100209,City Hotel,2026-02-07,2026-02-28,Winter,Superior,Transient,21,2,1,2,BB,Online,Direct,No Deposit,138.26,0,2,0
+HB100210,City Hotel,2025-12-12,2026-02-15,Winter,Deluxe,Transient,65,2,0,6,SC,Agent,Groups,No Deposit,103.15,0,0,0
+HB100211,Resort Hotel,2026-05-26,2026-05-29,Spring,Standard,Group,3,2,0,4,BB,Offline,Direct,No Deposit,88.18,0,2,0
+HB100212,City Hotel,2025-05-27,2025-06-15,Summer,Standard,Transient-Party,19,2,0,2,BB,Online,Direct,Non Refund,106.75,0,2,0
+HB100213,Resort Hotel,2025-05-28,2025-07-07,Summer,Deluxe,Transient,40,2,0,1,BB,Online,Direct,No Deposit,133.02,0,2,0
+HB100214,City Hotel,2026-05-04,2026-07-21,Summer,Suite,Transient,78,2,0,3,BB,Online,Direct,No Deposit,244.3,0,0,0
+HB100215,City Hotel,2026-07-05,2026-07-25,Summer,Suite,Contract,20,2,0,2,BB,Online,Direct,Non Refund,241.52,0,1,1
+HB100216,Resort Hotel,2025-12-04,2026-01-23,Winter,Deluxe,Transient,50,2,2,7,BB,Online,Offline TA/TO,No Deposit,110.58,0,2,0
+HB100217,City Hotel,2026-04-18,2026-08-01,Summer,Standard,Transient,105,4,0,3,HB,Online,Online TA,No Deposit,87.52,0,1,0
+HB100218,Resort Hotel,2025-05-31,2025-07-19,Summer,Standard,Transient,49,2,0,1,HB,Online,Offline TA/TO,Non Refund,114.6,0,0,1
+HB100219,Resort Hotel,2026-02-19,2026-03-04,Spring,Standard,Transient,13,2,0,2,BB,Online,Online TA,Non Refund,74.27,0,3,0
+HB100220,City Hotel,2025-10-25,2025-10-26,Autumn,Standard,Transient,1,2,0,7,BB,Online,Direct,No Deposit,74.78,0,3,0
+HB100221,Resort Hotel,2026-09-03,2026-12-12,Winter,Superior,Transient,100,4,0,3,BB,Online,Online TA,No Deposit,123.51,0,3,0
+HB100222,City Hotel,2025-09-20,2025-09-21,Autumn,Standard,Transient-Party,1,2,0,1,BB,Agent,Offline TA/TO,No Deposit,99.01,0,1,0
+HB100223,City Hotel,2025-05-24,2025-09-02,Autumn,Standard,Transient,101,2,3,1,BB,Online,Offline TA/TO,No Deposit,76.89,0,2,1
+HB100224,Resort Hotel,2025-12-12,2026-01-20,Winter,Deluxe,Contract,39,3,0,5,FB,Online,Offline TA/TO,No Deposit,97.34,2,2,0
+HB100225,City Hotel,2026-09-16,2027-01-22,Winter,Standard,Transient,128,2,1,4,BB,Agent,Corporate,Refundable,64.28,0,0,0
+HB100226,City Hotel,2026-07-26,2026-10-14,Autumn,Suite,Transient,80,2,2,1,HB,Online,Corporate,No Deposit,206.13,0,1,0
+HB100227,Resort Hotel,2025-01-02,2025-06-29,Summer,Standard,Transient,178,2,0,3,BB,Online,Online TA,No Deposit,116.29,0,1,0
+HB100228,Resort Hotel,2025-10-31,2025-11-22,Autumn,Deluxe,Transient,22,2,2,2,BB,Offline,Online TA,Non Refund,128.99,1,2,0
+HB100229,City Hotel,2025-09-11,2025-11-23,Autumn,Deluxe,Transient,73,3,0,1,SC,Agent,Online TA,Non Refund,121.29,0,2,0
+HB100230,Resort Hotel,2026-03-29,2026-04-24,Spring,Suite,Transient,26,2,0,1,BB,Online,Corporate,No Deposit,199.45,1,1,0
+HB100231,City Hotel,2025-02-06,2025-03-12,Spring,Standard,Group,34,2,1,10,BB,Online,Corporate,No Deposit,67.5,0,2,1
+HB100232,Resort Hotel,2025-06-09,2025-07-29,Summer,Superior,Transient,50,1,1,1,BB,Offline,Online TA,No Deposit,198.36,1,1,0
+HB100233,City Hotel,2025-01-09,2025-04-20,Spring,Superior,Transient,101,2,0,2,BB,Agent,Groups,No Deposit,160.68,0,1,0
+HB100234,City Hotel,2025-08-21,2026-01-30,Winter,Standard,Transient,162,2,0,2,BB,Online,Online TA,No Deposit,64.85,0,3,0
+HB100235,City Hotel,2025-04-09,2025-06-22,Summer,Standard,Contract,74,4,0,1,SC,Online,Online TA,Refundable,88.17,0,1,0
+HB100236,City Hotel,2025-07-27,2025-08-24,Summer,Deluxe,Transient,28,2,0,1,BB,Corporate,Corporate,No Deposit,132.59,0,1,0
+HB100237,City Hotel,2025-05-11,2025-06-08,Summer,Standard,Transient,28,2,1,3,BB,Online,Direct,No Deposit,90.8,1,0,0
+HB100238,Resort Hotel,2026-02-08,2026-04-17,Spring,Deluxe,Transient,68,3,0,3,BB,Corporate,Offline TA/TO,No Deposit,130.59,0,2,0
+HB100239,Resort Hotel,2025-06-01,2025-06-15,Summer,Superior,Transient,14,2,1,9,SC,Corporate,Online TA,No Deposit,179.43,0,1,0
+HB100240,Resort Hotel,2025-02-23,2025-03-01,Spring,Standard,Transient,6,2,0,2,BB,Online,Offline TA/TO,Refundable,98.58,0,1,0
+HB100241,City Hotel,2025-04-30,2025-05-22,Spring,Deluxe,Transient,22,2,1,1,BB,Offline,Online TA,No Deposit,119.99,0,2,0
+HB100242,City Hotel,2026-09-20,2026-10-07,Autumn,Standard,Transient,17,2,0,1,BB,Offline,Offline TA/TO,No Deposit,79.25,0,2,0
+HB100243,City Hotel,2026-08-10,2026-08-28,Summer,Suite,Contract,18,2,0,5,BB,Online,Online TA,No Deposit,267.16,1,1,1
+HB100244,City Hotel,2026-09-17,2026-10-01,Autumn,Standard,Transient,14,2,1,2,BB,Agent,Direct,No Deposit,85.87,0,1,0
+HB100245,City Hotel,2026-02-24,2026-02-26,Winter,Superior,Transient,2,2,0,3,HB,Online,Online TA,No Deposit,149.21,0,1,0
+HB100246,City Hotel,2026-02-26,2026-02-26,Winter,Standard,Transient,0,2,0,7,BB,Online,Online TA,Non Refund,83.86,0,0,0
+HB100247,Resort Hotel,2025-04-14,2025-09-26,Autumn,Deluxe,Transient-Party,165,2,0,3,BB,Offline,Offline TA/TO,No Deposit,111.37,0,0,0
+HB100248,City Hotel,2025-09-11,2025-10-10,Autumn,Standard,Transient,29,2,0,3,BB,Agent,Offline TA/TO,No Deposit,97.85,1,1,1
+HB100249,Resort Hotel,2025-08-15,2025-09-09,Autumn,Standard,Transient,25,3,1,1,BB,Corporate,Offline TA/TO,Refundable,101.62,0,1,0
+HB100250,Resort Hotel,2025-04-22,2025-06-19,Summer,Suite,Transient,58,4,2,1,BB,Agent,Direct,No Deposit,285.47,0,1,0
+HB100251,City Hotel,2026-05-25,2026-06-06,Summer,Deluxe,Transient,12,2,0,2,BB,Agent,Direct,No Deposit,129.42,1,1,1
+HB100252,City Hotel,2026-04-18,2026-08-31,Summer,Standard,Transient,135,3,0,2,BB,Agent,Direct,Non Refund,84.05,0,0,0
+HB100253,Resort Hotel,2025-04-09,2025-06-25,Summer,Deluxe,Transient,77,2,1,6,BB,Agent,Online TA,Non Refund,129.4,0,0,0
+HB100254,City Hotel,2025-06-02,2025-06-06,Summer,Standard,Transient-Party,4,2,1,3,BB,Online,Offline TA/TO,No Deposit,85.96,0,0,0
+HB100255,Resort Hotel,2025-12-04,2026-01-01,Winter,Standard,Transient,28,2,0,1,HB,Online,Online TA,No Deposit,87.09,0,1,0
+HB100256,Resort Hotel,2025-06-12,2025-09-23,Autumn,Standard,Transient,103,2,0,1,BB,Agent,Groups,No Deposit,103.98,0,1,0
+HB100257,Resort Hotel,2025-06-10,2025-10-20,Autumn,Superior,Transient-Party,132,4,0,3,BB,Offline,Online TA,No Deposit,148.8,0,0,0
+HB100258,Resort Hotel,2026-08-03,2026-09-04,Autumn,Standard,Contract,32,2,0,1,BB,Agent,Online TA,No Deposit,100.01,0,2,0
+HB100259,City Hotel,2026-02-02,2026-03-23,Spring,Standard,Transient,49,3,0,6,BB,Online,Online TA,Refundable,68.88,0,3,0
+HB100260,City Hotel,2025-10-04,2025-10-13,Autumn,Deluxe,Transient,9,2,0,2,BB,Online,Online TA,No Deposit,130.83,0,0,1
+HB100261,Resort Hotel,2026-05-19,2026-11-04,Autumn,Suite,Transient-Party,169,2,0,3,BB,Offline,Offline TA/TO,No Deposit,218.01,0,1,0
+HB100262,City Hotel,2026-01-27,2026-02-09,Winter,Standard,Transient,13,2,0,5,BB,Corporate,Groups,No Deposit,65.34,1,3,0
+HB100263,Resort Hotel,2025-05-15,2025-09-23,Autumn,Standard,Contract,131,3,1,1,SC,Corporate,Online TA,Non Refund,81.1,0,3,1
+HB100264,City Hotel,2025-07-14,2025-09-06,Autumn,Standard,Transient,54,2,0,2,BB,Online,Direct,No Deposit,90.12,0,0,0
+HB100265,City Hotel,2026-02-05,2026-03-25,Spring,Standard,Transient,48,2,1,1,BB,Corporate,Corporate,No Deposit,91.34,2,0,1
+HB100266,City Hotel,2025-02-02,2025-03-11,Spring,Standard,Transient,37,2,0,10,BB,Corporate,Offline TA/TO,No Deposit,87.32,0,0,0
+HB100267,City Hotel,2026-04-05,2026-04-18,Spring,Deluxe,Transient-Party,13,2,0,3,BB,Agent,Direct,No Deposit,92.92,0,1,0
+HB100268,Resort Hotel,2026-04-15,2026-04-25,Spring,Superior,Transient,10,2,0,1,FB,Online,Offline TA/TO,No Deposit,131.05,0,2,0
+HB100269,Resort Hotel,2026-01-10,2026-01-23,Winter,Deluxe,Transient,13,2,1,1,SC,Agent,Corporate,No Deposit,92.84,0,1,1
+HB100270,Resort Hotel,2025-01-22,2025-02-01,Winter,Deluxe,Transient,10,2,0,1,HB,Online,Direct,Non Refund,115.1,1,1,0
+HB100271,Resort Hotel,2025-02-07,2025-04-24,Spring,Deluxe,Transient,76,2,0,3,BB,Online,Groups,No Deposit,132.44,1,1,0
+HB100272,Resort Hotel,2025-08-18,2025-09-09,Autumn,Deluxe,Transient,22,2,0,3,FB,Online,Groups,No Deposit,113.38,0,0,0
+HB100273,Resort Hotel,2025-12-31,2026-01-03,Winter,Standard,Transient,3,2,0,10,FB,Agent,Online TA,Refundable,85.28,0,1,0
+HB100274,City Hotel,2026-07-17,2026-12-12,Winter,Standard,Transient,148,3,0,2,HB,Offline,Offline TA/TO,No Deposit,68.78,3,1,1
+HB100275,Resort Hotel,2026-03-14,2026-06-26,Summer,Standard,Transient,104,4,0,2,BB,Online,Corporate,No Deposit,86.81,0,2,0
+HB100276,City Hotel,2025-10-10,2026-02-10,Winter,Standard,Transient,123,3,0,8,BB,Online,Direct,Non Refund,72.63,0,1,1
+HB100277,City Hotel,2025-01-27,2025-07-20,Summer,Superior,Contract,174,2,2,1,BB,Agent,Corporate,No Deposit,149.99,0,1,0
+HB100278,Resort Hotel,2025-08-14,2025-08-24,Summer,Standard,Transient,10,3,0,3,BB,Corporate,Direct,No Deposit,102.01,0,0,0
+HB100279,City Hotel,2025-10-04,2025-10-30,Autumn,Standard,Transient,26,2,2,3,BB,Agent,Offline TA/TO,Non Refund,75.26,0,0,0
+HB100280,City Hotel,2026-09-01,2026-11-12,Autumn,Deluxe,Contract,72,2,0,6,BB,Online,Offline TA/TO,Non Refund,133.19,0,0,1
+HB100281,City Hotel,2025-10-11,2025-12-10,Winter,Standard,Transient,60,2,0,4,BB,Agent,Online TA,No Deposit,84.01,0,2,0
+HB100282,Resort Hotel,2026-04-26,2026-05-04,Spring,Deluxe,Contract,8,4,0,8,BB,Online,Direct,No Deposit,117.99,0,2,0
+HB100283,City Hotel,2026-03-29,2026-06-21,Summer,Superior,Transient,84,2,1,2,BB,Online,Offline TA/TO,No Deposit,160.12,0,0,1
+HB100284,City Hotel,2026-05-31,2026-06-13,Summer,Standard,Transient,13,2,0,9,BB,Online,Offline TA/TO,Non Refund,91.9,0,0,1
+HB100285,City Hotel,2026-07-01,2026-07-14,Summer,Standard,Transient,13,2,1,1,HB,Online,Offline TA/TO,Non Refund,106.69,0,2,0
+HB100286,City Hotel,2025-07-11,2025-08-20,Summer,Standard,Transient,40,4,2,2,BB,Online,Online TA,No Deposit,108.89,0,0,0
+HB100287,Resort Hotel,2025-02-18,2025-04-05,Spring,Deluxe,Transient,46,3,1,3,BB,Online,Groups,Non Refund,109.05,0,0,0
+HB100288,Resort Hotel,2026-05-27,2026-07-10,Summer,Standard,Transient,44,3,0,2,BB,Corporate,Direct,No Deposit,90.21,1,2,0
+HB100289,City Hotel,2025-01-17,2025-01-22,Winter,Suite,Transient,5,2,0,4,BB,Online,Online TA,No Deposit,200.86,0,2,0
+HB100290,Resort Hotel,2025-06-21,2025-10-01,Autumn,Standard,Transient,102,2,0,3,BB,Corporate,Online TA,No Deposit,80.71,1,1,1
+HB100291,Resort Hotel,2025-08-08,2025-08-24,Summer,Standard,Transient,16,1,1,5,BB,Online,Groups,No Deposit,96.56,0,0,0
+HB100292,City Hotel,2025-06-07,2025-06-14,Summer,Deluxe,Transient,7,1,1,2,BB,Agent,Online TA,No Deposit,148.59,0,0,0
+HB100293,Resort Hotel,2026-04-22,2026-08-06,Summer,Standard,Transient,106,3,1,1,BB,Online,Online TA,No Deposit,98.89,0,0,1
+HB100294,Resort Hotel,2025-02-15,2025-07-03,Summer,Standard,Transient,138,2,0,7,BB,Corporate,Direct,No Deposit,105.19,0,1,0
+HB100295,City Hotel,2026-01-08,2026-04-15,Spring,Superior,Transient-Party,97,3,0,1,BB,Online,Direct,No Deposit,153.34,0,0,0
+HB100296,Resort Hotel,2026-06-02,2026-08-24,Summer,Standard,Transient,83,2,0,6,BB,Offline,Direct,Refundable,91.83,2,2,1
+HB100297,Resort Hotel,2025-04-09,2025-06-02,Summer,Deluxe,Transient,54,2,0,1,FB,Online,Offline TA/TO,No Deposit,134.97,1,0,0
+HB100298,City Hotel,2025-02-06,2025-03-19,Spring,Standard,Transient,41,2,0,2,HB,Online,Groups,No Deposit,90.68,0,2,1
+HB100299,City Hotel,2025-10-07,2025-10-11,Autumn,Standard,Contract,4,2,0,2,BB,Online,Direct,No Deposit,83.62,0,2,0
+HB100300,Resort Hotel,2025-12-15,2026-01-11,Winter,Standard,Transient-Party,27,1,0,3,HB,Online,Direct,Refundable,82.1,0,0,0
+HB100301,City Hotel,2026-05-12,2026-06-05,Summer,Standard,Transient,24,2,1,1,BB,Online,Offline TA/TO,No Deposit,86.07,0,0,0
+HB100302,City Hotel,2025-10-29,2025-11-13,Autumn,Standard,Transient,15,3,0,3,BB,Corporate,Offline TA/TO,No Deposit,74.25,0,3,0
+HB100303,City Hotel,2025-06-30,2025-09-03,Autumn,Deluxe,Transient,65,2,0,2,BB,Online,Offline TA/TO,No Deposit,106.34,0,2,0
+HB100304,City Hotel,2026-08-30,2026-10-04,Autumn,Standard,Transient,35,3,0,3,HB,Agent,Groups,No Deposit,73.98,0,1,0
+HB100305,Resort Hotel,2025-04-09,2025-04-13,Spring,Deluxe,Transient,4,4,0,2,BB,Agent,Direct,Non Refund,110.17,0,2,0
+HB100306,City Hotel,2025-04-26,2025-05-09,Spring,Standard,Transient-Party,13,4,0,2,BB,Online,Offline TA/TO,No Deposit,88.23,0,0,0
+HB100307,City Hotel,2025-07-10,2025-09-06,Autumn,Deluxe,Group,58,2,0,8,BB,Online,Online TA,Refundable,129.72,0,1,0
+HB100308,City Hotel,2025-09-10,2025-09-14,Autumn,Superior,Transient,4,2,0,1,BB,Online,Online TA,Refundable,165.73,0,1,0
+HB100309,Resort Hotel,2025-06-10,2025-09-12,Autumn,Deluxe,Transient-Party,94,3,0,3,SC,Online,Online TA,No Deposit,124.96,0,0,0
+HB100310,Resort Hotel,2025-09-13,2025-10-18,Autumn,Superior,Transient,35,3,0,5,BB,Online,Corporate,No Deposit,174.9,2,2,1
+HB100311,City Hotel,2025-11-19,2025-12-23,Winter,Standard,Transient,34,2,0,8,BB,Offline,Online TA,No Deposit,72.07,0,2,0
+HB100312,Resort Hotel,2025-05-08,2025-06-23,Summer,Suite,Transient,46,3,0,1,BB,Online,Online TA,Non Refund,256.28,0,0,0
+HB100313,City Hotel,2025-01-18,2025-04-14,Spring,Deluxe,Transient,86,2,0,5,HB,Agent,Direct,No Deposit,115.97,3,0,0
+HB100314,Resort Hotel,2026-07-20,2026-08-11,Summer,Standard,Group,22,3,0,7,BB,Agent,Online TA,No Deposit,117.7,0,0,0
+HB100315,City Hotel,2026-07-24,2026-09-20,Autumn,Deluxe,Transient,58,2,0,3,HB,Corporate,Online TA,No Deposit,119.47,0,1,0
+HB100316,Resort Hotel,2025-11-19,2026-01-01,Winter,Superior,Transient,43,4,0,2,BB,Online,Direct,No Deposit,128.35,0,0,0
+HB100317,Resort Hotel,2026-09-18,2026-10-04,Autumn,Deluxe,Transient,16,1,1,7,BB,Online,Corporate,Refundable,119.3,0,1,0
+HB100318,Resort Hotel,2025-10-15,2026-01-25,Winter,Deluxe,Transient,102,3,0,2,BB,Online,Online TA,No Deposit,106.33,1,2,1
+HB100319,City Hotel,2025-06-04,2025-08-23,Summer,Deluxe,Transient,80,2,0,1,BB,Online,Direct,Non Refund,132.3,2,0,1
+HB100320,Resort Hotel,2026-05-05,2026-06-29,Summer,Standard,Contract,55,3,0,2,BB,Online,Offline TA/TO,Non Refund,102.87,0,2,0
+HB100321,City Hotel,2026-01-21,2026-04-24,Spring,Deluxe,Transient,93,2,0,7,BB,Offline,Offline TA/TO,Non Refund,111.06,0,1,0
+HB100322,City Hotel,2025-04-14,2025-07-22,Summer,Standard,Transient,99,3,0,6,FB,Agent,Direct,No Deposit,90.13,0,0,0
+HB100323,Resort Hotel,2026-01-28,2026-04-01,Spring,Standard,Transient,63,3,1,2,BB,Online,Direct,Non Refund,92.18,0,0,1
+HB100324,Resort Hotel,2025-09-03,2025-12-02,Winter,Standard,Transient-Party,90,2,0,1,BB,Online,Offline TA/TO,No Deposit,90.48,0,1,0
+HB100325,City Hotel,2025-06-25,2025-08-25,Summer,Standard,Contract,61,2,1,4,BB,Offline,Direct,Non Refund,91.22,1,0,1
+HB100326,Resort Hotel,2025-02-08,2025-04-07,Spring,Deluxe,Contract,58,3,0,1,FB,Online,Direct,No Deposit,124.56,1,2,0
+HB100327,Resort Hotel,2026-04-22,2026-06-10,Summer,Standard,Contract,49,2,0,2,BB,Agent,Online TA,No Deposit,89.58,2,2,0
+HB100328,Resort Hotel,2026-06-22,2026-08-31,Summer,Standard,Transient,70,4,0,1,SC,Online,Online TA,No Deposit,105.73,1,1,1
+HB100329,City Hotel,2026-02-12,2026-02-21,Winter,Standard,Transient,9,1,0,5,BB,Online,Online TA,No Deposit,76.67,3,0,1
+HB100330,Resort Hotel,2026-06-09,2026-09-20,Autumn,Superior,Transient-Party,103,2,0,6,SC,Online,Corporate,Non Refund,174.28,0,1,0
+HB100331,City Hotel,2026-05-21,2026-08-29,Summer,Standard,Transient,100,3,1,8,BB,Online,Online TA,No Deposit,105.21,1,1,0
+HB100332,Resort Hotel,2025-02-05,2025-02-06,Winter,Deluxe,Transient,1,2,0,1,SC,Online,Online TA,Non Refund,100.42,0,1,0
+HB100333,Resort Hotel,2025-01-20,2025-04-17,Spring,Standard,Contract,87,2,0,1,BB,Online,Direct,No Deposit,97.4,1,2,0
+HB100334,City Hotel,2025-11-17,2025-11-24,Autumn,Standard,Contract,7,2,2,1,BB,Online,Direct,No Deposit,87.72,1,3,0
+HB100335,Resort Hotel,2026-05-27,2026-06-17,Summer,Suite,Transient-Party,21,3,0,2,BB,Online,Online TA,Refundable,254.13,0,0,0
+HB100336,City Hotel,2026-02-04,2026-04-14,Spring,Standard,Transient,69,2,0,7,BB,Online,Corporate,No Deposit,90.84,0,1,1
+HB100337,City Hotel,2026-04-16,2026-04-25,Spring,Suite,Transient,9,3,0,1,BB,Offline,Online TA,No Deposit,177.82,0,0,0
+HB100338,City Hotel,2025-05-23,2025-08-16,Summer,Suite,Transient-Party,85,2,0,7,BB,Online,Online TA,Non Refund,272.74,0,1,1
+HB100339,Resort Hotel,2025-04-02,2025-06-29,Summer,Deluxe,Transient,88,2,0,1,BB,Online,Direct,Refundable,155.05,1,1,1
+HB100340,Resort Hotel,2025-12-20,2026-01-25,Winter,Standard,Transient,36,2,2,1,BB,Agent,Offline TA/TO,No Deposit,73.28,0,1,0
+HB100341,City Hotel,2025-02-20,2025-02-20,Winter,Deluxe,Transient,0,4,0,2,BB,Online,Online TA,Non Refund,111.17,0,0,0
+HB100342,Resort Hotel,2026-07-29,2026-08-15,Summer,Deluxe,Contract,17,1,1,2,BB,Online,Corporate,No Deposit,138.75,0,2,0
+HB100343,City Hotel,2025-07-09,2025-08-27,Summer,Suite,Transient,49,2,0,5,BB,Corporate,Direct,No Deposit,228.56,0,1,1
+HB100344,Resort Hotel,2025-05-05,2025-10-11,Autumn,Deluxe,Transient,159,1,0,3,HB,Agent,Direct,No Deposit,147.14,1,2,0
+HB100345,Resort Hotel,2025-05-30,2025-07-20,Summer,Standard,Group,51,4,0,4,BB,Online,Online TA,No Deposit,117.2,0,1,0
+HB100346,City Hotel,2025-11-10,2025-11-25,Autumn,Standard,Transient,15,2,0,5,BB,Online,Online TA,No Deposit,81.13,0,1,1
+HB100347,Resort Hotel,2026-07-24,2026-09-13,Autumn,Superior,Transient,51,2,0,1,HB,Corporate,Direct,No Deposit,193.18,0,0,0
+HB100348,City Hotel,2025-12-08,2026-01-17,Winter,Deluxe,Transient-Party,40,2,1,2,BB,Online,Offline TA/TO,Non Refund,107.17,0,3,1
+HB100349,Resort Hotel,2025-11-01,2026-01-16,Winter,Deluxe,Transient-Party,76,2,0,5,BB,Agent,Offline TA/TO,No Deposit,101.41,1,3,0
+HB100350,City Hotel,2025-02-23,2025-02-28,Winter,Standard,Transient,5,2,0,2,BB,Online,Online TA,No Deposit,77.91,0,1,0
+HB100351,City Hotel,2026-03-20,2026-05-31,Spring,Superior,Transient,72,2,0,3,HB,Online,Offline TA/TO,Refundable,145.21,0,0,0
+HB100352,Resort Hotel,2026-09-05,2026-10-15,Autumn,Standard,Transient,40,3,0,1,HB,Online,Online TA,No Deposit,108.47,0,0,0
+HB100353,City Hotel,2025-09-21,2026-02-12,Winter,Standard,Contract,144,2,2,5,FB,Online,Online TA,No Deposit,64.33,0,1,0
+HB100354,City Hotel,2025-02-22,2025-03-15,Spring,Standard,Transient,21,4,0,2,BB,Online,Online TA,Non Refund,83.47,0,1,0
+HB100355,City Hotel,2026-07-26,2026-09-15,Autumn,Standard,Group,51,4,1,4,BB,Agent,Online TA,No Deposit,79.41,0,1,0
+HB100356,City Hotel,2026-09-12,2027-01-15,Winter,Standard,Transient-Party,125,2,1,2,BB,Online,Online TA,Non Refund,78.05,0,2,0
+HB100357,Resort Hotel,2025-01-05,2025-01-10,Winter,Standard,Transient,5,2,0,10,FB,Online,Direct,No Deposit,88.01,0,1,0
+HB100358,City Hotel,2025-04-13,2025-08-18,Summer,Standard,Transient-Party,127,2,0,2,BB,Online,Offline TA/TO,No Deposit,95.87,0,2,0
+HB100359,City Hotel,2025-07-15,2025-09-12,Autumn,Suite,Transient,59,4,0,1,BB,Online,Online TA,No Deposit,211.85,0,2,0
+HB100360,City Hotel,2025-12-16,2025-12-19,Winter,Standard,Transient,3,3,2,1,BB,Agent,Corporate,Non Refund,65.93,0,2,1
+HB100361,City Hotel,2025-02-16,2025-03-06,Spring,Deluxe,Transient,18,2,0,3,BB,Online,Offline TA/TO,Non Refund,120.95,0,1,1
+HB100362,City Hotel,2025-09-26,2025-11-27,Autumn,Standard,Transient,62,3,1,7,BB,Agent,Online TA,No Deposit,80.72,1,0,1
+HB100363,City Hotel,2026-01-05,2026-01-08,Winter,Deluxe,Transient,3,3,0,1,BB,Offline,Online TA,Refundable,98.53,0,1,0
+HB100364,Resort Hotel,2026-09-28,2026-11-12,Autumn,Deluxe,Transient-Party,45,2,0,1,BB,Online,Direct,No Deposit,113.85,0,0,0
+HB100365,City Hotel,2025-04-16,2025-05-08,Spring,Superior,Contract,22,2,2,1,BB,Online,Offline TA/TO,No Deposit,139.25,0,1,0
+HB100366,City Hotel,2025-04-30,2025-06-19,Summer,Standard,Transient-Party,50,1,2,3,HB,Online,Direct,No Deposit,89.59,0,0,0
+HB100367,Resort Hotel,2026-08-27,2026-08-29,Summer,Suite,Transient,2,1,0,1,BB,Online,Direct,Non Refund,278.44,0,1,0
+HB100368,City Hotel,2025-02-27,2025-06-07,Summer,Standard,Transient,100,2,2,2,BB,Online,Direct,No Deposit,101.75,0,1,0
+HB100369,City Hotel,2025-12-12,2026-05-13,Spring,Suite,Transient,152,2,1,10,BB,Online,Offline TA/TO,No Deposit,226.32,0,2,0
+HB100370,City Hotel,2026-04-19,2026-09-14,Autumn,Deluxe,Transient,148,3,0,3,BB,Online,Online TA,No Deposit,103.82,0,0,0
+HB100371,City Hotel,2025-04-27,2025-07-06,Summer,Standard,Transient,70,2,0,1,BB,Corporate,Offline TA/TO,No Deposit,110.52,0,1,0
+HB100372,City Hotel,2025-05-07,2025-05-14,Spring,Standard,Transient,7,2,0,4,BB,Agent,Direct,No Deposit,80.93,0,1,0
+HB100373,Resort Hotel,2026-01-28,2026-04-10,Spring,Deluxe,Transient,72,2,0,2,BB,Online,Direct,No Deposit,104.57,0,2,0
+HB100374,Resort Hotel,2025-02-27,2025-02-28,Winter,Deluxe,Transient,1,2,0,2,BB,Online,Direct,No Deposit,99.48,0,0,0
+HB100375,Resort Hotel,2026-09-26,2026-09-27,Autumn,Standard,Transient,1,2,1,3,BB,Online,Direct,No Deposit,86.9,0,0,0
+HB100376,City Hotel,2026-05-28,2026-06-17,Summer,Superior,Group,20,2,0,2,BB,Online,Online TA,Non Refund,192.02,0,1,0
+HB100377,City Hotel,2025-04-06,2025-05-10,Spring,Standard,Contract,34,2,0,4,BB,Agent,Offline TA/TO,No Deposit,66.54,1,1,0
+HB100378,City Hotel,2026-09-30,2026-12-13,Winter,Standard,Transient,74,3,0,2,BB,Corporate,Offline TA/TO,No Deposit,70.93,0,2,0
+HB100379,Resort Hotel,2025-04-28,2025-06-25,Summer,Deluxe,Transient,58,2,2,2,HB,Online,Online TA,Refundable,133.25,0,3,1
+HB100380,Resort Hotel,2026-07-14,2026-08-13,Summer,Deluxe,Transient-Party,30,1,0,3,BB,Online,Direct,No Deposit,143.96,0,1,0
+HB100381,City Hotel,2026-08-24,2026-09-09,Autumn,Standard,Transient,16,3,1,5,BB,Online,Offline TA/TO,No Deposit,83.16,0,1,0
+HB100382,City Hotel,2026-05-03,2026-10-27,Autumn,Standard,Transient,177,3,2,2,HB,Online,Direct,No Deposit,91.99,0,1,0
+HB100383,City Hotel,2025-08-25,2025-09-23,Autumn,Superior,Contract,29,2,1,7,BB,Online,Direct,No Deposit,132.18,1,0,1
+HB100384,City Hotel,2025-09-29,2025-10-30,Autumn,Standard,Transient,31,3,0,2,BB,Agent,Corporate,No Deposit,73.22,0,1,0
+HB100385,City Hotel,2025-07-08,2025-07-17,Summer,Standard,Transient,9,2,3,1,HB,Agent,Corporate,No Deposit,80.52,3,0,0
+HB100386,City Hotel,2026-03-23,2026-06-10,Summer,Standard,Transient,79,2,0,1,BB,Offline,Online TA,No Deposit,108.22,0,0,0
+HB100387,City Hotel,2026-08-04,2026-10-03,Autumn,Deluxe,Transient-Party,60,2,0,6,BB,Online,Direct,No Deposit,117.05,1,2,0
+HB100388,City Hotel,2025-09-04,2025-09-17,Autumn,Deluxe,Transient,13,1,0,2,BB,Offline,Online TA,No Deposit,116.97,0,0,0
+HB100389,Resort Hotel,2025-03-17,2025-03-21,Spring,Deluxe,Transient,4,3,1,4,BB,Online,Direct,No Deposit,123.06,0,1,0
+HB100390,City Hotel,2025-06-03,2025-07-31,Summer,Standard,Transient,58,2,1,3,BB,Agent,Corporate,Non Refund,107.63,0,1,0
+HB100391,Resort Hotel,2026-03-11,2026-05-04,Spring,Standard,Transient-Party,54,2,1,4,BB,Offline,Offline TA/TO,Non Refund,80.17,0,2,0
+HB100392,City Hotel,2025-03-27,2025-04-12,Spring,Suite,Transient,16,2,3,4,BB,Agent,Online TA,No Deposit,206.97,0,0,0
+HB100393,City Hotel,2025-10-12,2026-02-24,Winter,Superior,Transient,135,1,2,1,BB,Online,Online TA,Refundable,150.64,0,4,1
+HB100394,City Hotel,2025-08-08,2025-08-16,Summer,Superior,Transient,8,2,0,1,BB,Online,Corporate,Non Refund,141.78,1,0,1
+HB100395,City Hotel,2025-03-10,2025-04-08,Spring,Standard,Transient,29,2,0,1,BB,Agent,Online TA,No Deposit,85.28,0,1,0
+HB100396,Resort Hotel,2025-02-16,2025-06-27,Summer,Standard,Contract,131,2,0,1,BB,Agent,Corporate,No Deposit,99.73,0,1,0
+HB100397,Resort Hotel,2025-04-04,2025-05-02,Spring,Deluxe,Transient,28,2,0,2,BB,Online,Online TA,No Deposit,128.14,1,1,0
+HB100398,Resort Hotel,2026-03-29,2026-05-20,Spring,Suite,Transient,52,2,0,1,BB,Agent,Online TA,Refundable,208.55,0,2,0
+HB100399,Resort Hotel,2025-07-23,2025-08-18,Summer,Standard,Transient,26,2,0,4,BB,Corporate,Online TA,No Deposit,115.29,0,0,1
+HB100400,Resort Hotel,2025-08-06,2025-08-22,Summer,Standard,Transient,16,2,0,2,BB,Corporate,Corporate,Refundable,100.41,0,1,0
+HB100401,City Hotel,2026-04-19,2026-09-27,Autumn,Standard,Transient,161,2,0,3,BB,Online,Corporate,No Deposit,92.84,0,2,1
+HB100402,City Hotel,2026-03-08,2026-04-04,Spring,Superior,Transient,27,1,0,4,HB,Online,Online TA,No Deposit,153.01,0,1,0
+HB100403,Resort Hotel,2025-12-07,2026-03-25,Spring,Standard,Transient,108,2,2,1,BB,Online,Offline TA/TO,No Deposit,81.11,0,0,0
+HB100404,City Hotel,2026-07-05,2026-07-18,Summer,Deluxe,Transient,13,1,0,2,BB,Online,Direct,No Deposit,132.84,1,0,0
+HB100405,Resort Hotel,2026-09-04,2026-09-16,Autumn,Standard,Transient,12,2,1,4,BB,Agent,Online TA,No Deposit,94.09,0,2,0
+HB100406,City Hotel,2025-10-16,2025-10-17,Autumn,Standard,Group,1,2,1,2,BB,Agent,Online TA,No Deposit,88.46,0,0,0
+HB100407,Resort Hotel,2025-09-11,2025-11-04,Autumn,Standard,Transient,54,4,0,6,BB,Online,Online TA,Non Refund,105.54,0,0,0
+HB100408,Resort Hotel,2025-12-23,2026-01-16,Winter,Standard,Transient,24,2,0,3,BB,Offline,Online TA,No Deposit,91.45,0,1,0
+HB100409,City Hotel,2025-01-23,2025-05-01,Spring,Standard,Group,98,3,0,4,BB,Offline,Online TA,No Deposit,87.59,0,0,1
+HB100410,City Hotel,2026-06-06,2026-07-09,Summer,Deluxe,Transient,33,3,3,3,BB,Online,Online TA,Refundable,116.35,1,1,0
+HB100411,City Hotel,2025-04-10,2025-09-04,Autumn,Deluxe,Transient,147,2,1,5,BB,Agent,Online TA,No Deposit,117.55,1,2,1
+HB100412,Resort Hotel,2025-06-29,2025-07-09,Summer,Standard,Transient,10,2,1,4,BB,Online,Corporate,Non Refund,89.79,1,1,1
+HB100413,City Hotel,2025-08-11,2025-11-18,Autumn,Standard,Transient-Party,99,2,1,2,BB,Offline,Online TA,Non Refund,90.74,0,2,0
+HB100414,Resort Hotel,2026-03-18,2026-06-01,Summer,Standard,Transient,75,3,0,3,HB,Online,Offline TA/TO,No Deposit,94.82,0,2,0
+HB100415,Resort Hotel,2026-08-31,2026-11-13,Autumn,Suite,Group,74,2,0,4,BB,Online,Direct,No Deposit,199.99,1,0,0
+HB100416,City Hotel,2025-11-21,2026-02-21,Winter,Superior,Transient,92,2,0,1,BB,Online,Offline TA/TO,No Deposit,151.78,0,3,0
+HB100417,Resort Hotel,2026-05-31,2026-08-11,Summer,Deluxe,Transient,72,3,0,3,BB,Agent,Direct,No Deposit,145.1,0,1,0
+HB100418,Resort Hotel,2025-01-16,2025-03-07,Spring,Deluxe,Transient,50,3,1,2,SC,Agent,Online TA,No Deposit,119.89,2,1,1
+HB100419,Resort Hotel,2025-12-02,2025-12-09,Winter,Deluxe,Contract,7,3,0,1,SC,Online,Online TA,No Deposit,110.31,0,2,0
+HB100420,City Hotel,2025-09-15,2025-09-16,Autumn,Standard,Transient,1,2,0,3,HB,Online,Online TA,No Deposit,76.54,0,0,0
+HB100421,City Hotel,2026-05-12,2026-09-08,Autumn,Standard,Contract,119,2,0,2,BB,Corporate,Online TA,No Deposit,100.57,0,0,0
+HB100422,Resort Hotel,2025-06-09,2025-07-28,Summer,Suite,Transient,49,2,0,5,BB,Agent,Online TA,No Deposit,225.09,2,2,0
+HB100423,Resort Hotel,2026-04-20,2026-07-09,Summer,Superior,Group,80,2,0,1,BB,Online,Offline TA/TO,Non Refund,193.82,0,0,0
+HB100424,Resort Hotel,2026-01-15,2026-02-18,Winter,Deluxe,Transient,34,2,0,1,BB,Agent,Online TA,No Deposit,95.01,3,0,0
+HB100425,City Hotel,2026-06-29,2026-07-05,Summer,Standard,Transient-Party,6,2,0,4,BB,Online,Online TA,No Deposit,89.17,0,0,0
+HB100426,Resort Hotel,2026-03-03,2026-03-10,Spring,Deluxe,Transient,7,2,0,4,BB,Online,Online TA,No Deposit,98.28,0,1,0
+HB100427,Resort Hotel,2026-09-05,2026-11-03,Autumn,Superior,Transient-Party,59,2,0,2,BB,Online,Corporate,No Deposit,146.59,0,1,0
+HB100428,City Hotel,2025-09-25,2025-10-24,Autumn,Standard,Transient,29,2,1,4,BB,Agent,Offline TA/TO,No Deposit,73.88,0,0,0
+HB100429,City Hotel,2026-07-31,2026-08-11,Summer,Superior,Transient-Party,11,2,1,1,SC,Online,Offline TA/TO,No Deposit,195.72,0,2,0
+HB100430,Resort Hotel,2026-02-21,2026-03-28,Spring,Superior,Transient,35,2,0,1,BB,Online,Offline TA/TO,No Deposit,129.87,0,1,0
+HB100431,Resort Hotel,2025-06-17,2025-06-20,Summer,Standard,Transient,3,2,1,2,SC,Agent,Online TA,No Deposit,87.17,0,1,1
+HB100432,Resort Hotel,2025-02-12,2025-03-29,Spring,Superior,Transient-Party,45,3,1,1,BB,Offline,Online TA,No Deposit,161.25,0,0,0
+HB100433,Resort Hotel,2026-07-10,2026-07-26,Summer,Deluxe,Transient,16,2,0,6,BB,Online,Offline TA/TO,No Deposit,152.52,1,1,0
+HB100434,Resort Hotel,2025-10-12,2025-12-31,Winter,Standard,Transient-Party,80,2,1,3,BB,Agent,Corporate,Refundable,88.87,0,2,0
+HB100435,City Hotel,2026-02-01,2026-02-20,Winter,Superior,Transient-Party,19,4,1,5,BB,Online,Offline TA/TO,No Deposit,112.34,0,1,0
+HB100436,City Hotel,2025-01-12,2025-02-12,Winter,Standard,Transient,31,2,1,1,BB,Online,Online TA,No Deposit,68.41,0,1,0
+HB100437,City Hotel,2026-08-30,2026-08-30,Summer,Standard,Transient,0,2,0,1,BB,Online,Direct,No Deposit,87.21,0,1,0
+HB100438,City Hotel,2025-10-29,2025-11-01,Autumn,Standard,Transient,3,2,0,1,SC,Online,Offline TA/TO,No Deposit,100.44,0,2,0
+HB100439,City Hotel,2025-09-10,2025-10-06,Autumn,Suite,Transient,26,2,0,1,SC,Offline,Offline TA/TO,Refundable,200.12,0,1,0
+HB100440,City Hotel,2026-05-14,2026-06-17,Summer,Standard,Transient,34,2,0,1,HB,Online,Direct,No Deposit,87.25,0,0,0
+HB100441,Resort Hotel,2025-02-04,2025-03-23,Spring,Standard,Transient,47,4,0,2,BB,Online,Corporate,No Deposit,72.13,0,1,0
+HB100442,Resort Hotel,2025-03-31,2025-04-18,Spring,Standard,Transient,18,3,0,1,BB,Agent,Online TA,No Deposit,90.8,0,3,0
+HB100443,City Hotel,2026-08-28,2026-10-27,Autumn,Standard,Group,60,4,0,2,FB,Online,Direct,No Deposit,87.96,0,0,0
+HB100444,Resort Hotel,2026-08-25,2026-11-29,Autumn,Superior,Transient,96,4,0,1,BB,Offline,Direct,No Deposit,190.11,2,2,0
+HB100445,Resort Hotel,2026-02-22,2026-05-09,Spring,Standard,Contract,76,2,2,10,BB,Online,Corporate,No Deposit,86.94,0,0,0
+HB100446,City Hotel,2025-04-25,2025-04-27,Spring,Standard,Contract,2,2,0,3,BB,Offline,Corporate,Refundable,84.53,0,0,0
+HB100447,City Hotel,2026-09-09,2026-10-13,Autumn,Superior,Transient,34,2,0,2,BB,Online,Online TA,No Deposit,168.67,0,1,0
+HB100448,City Hotel,2025-07-15,2025-07-20,Summer,Deluxe,Transient,5,3,0,4,BB,Agent,Offline TA/TO,Non Refund,143.66,0,1,0
+HB100449,Resort Hotel,2026-05-16,2026-05-30,Spring,Standard,Transient-Party,14,2,0,1,BB,Offline,Online TA,Non Refund,88.0,0,2,0
+HB100450,City Hotel,2026-09-18,2027-03-01,Spring,Deluxe,Transient,164,2,0,2,FB,Agent,Online TA,No Deposit,100.51,0,2,1
+HB100451,Resort Hotel,2026-05-08,2026-05-16,Spring,Standard,Transient,8,2,0,6,HB,Agent,Online TA,No Deposit,92.69,0,1,0
+HB100452,City Hotel,2025-03-16,2025-04-20,Spring,Superior,Transient,35,2,0,4,BB,Online,Offline TA/TO,No Deposit,156.24,0,1,0
+HB100453,City Hotel,2026-02-17,2026-04-07,Spring,Superior,Transient,49,2,2,8,FB,Corporate,Online TA,No Deposit,121.53,0,0,0
+HB100454,City Hotel,2026-01-11,2026-03-14,Spring,Standard,Transient,62,2,0,1,BB,Agent,Online TA,Non Refund,67.11,0,0,0
+HB100455,City Hotel,2026-02-24,2026-04-07,Spring,Deluxe,Transient-Party,42,2,0,2,BB,Online,Online TA,No Deposit,93.64,0,0,0
+HB100456,City Hotel,2025-10-04,2025-10-04,Autumn,Standard,Transient,0,3,0,2,BB,Online,Online TA,No Deposit,74.2,0,1,0
+HB100457,Resort Hotel,2026-01-29,2026-02-18,Winter,Superior,Group,20,1,0,1,BB,Online,Online TA,Non Refund,152.82,0,0,1
+HB100458,City Hotel,2026-04-02,2026-05-09,Spring,Standard,Transient,37,2,0,3,BB,Online,Online TA,Refundable,73.0,0,1,0
+HB100459,City Hotel,2025-07-11,2025-07-15,Summer,Deluxe,Transient-Party,4,2,0,4,HB,Online,Online TA,No Deposit,130.87,0,2,0
+HB100460,Resort Hotel,2025-04-09,2025-05-01,Spring,Superior,Transient-Party,22,2,0,4,BB,Agent,Corporate,No Deposit,137.26,0,2,0
+HB100461,Resort Hotel,2026-07-02,2026-07-03,Summer,Standard,Transient,1,2,3,2,HB,Online,Offline TA/TO,No Deposit,89.26,0,1,0
+HB100462,Resort Hotel,2025-04-06,2025-04-10,Spring,Deluxe,Transient,4,2,0,1,BB,Online,Online TA,No Deposit,107.21,0,3,0
+HB100463,Resort Hotel,2025-07-09,2025-08-04,Summer,Deluxe,Transient,26,2,1,5,BB,Online,Corporate,No Deposit,124.08,0,0,0
+HB100464,Resort Hotel,2025-02-06,2025-02-13,Winter,Suite,Transient,7,2,0,6,SC,Online,Direct,No Deposit,189.68,0,1,0
+HB100465,Resort Hotel,2026-01-04,2026-02-16,Winter,Deluxe,Transient-Party,43,2,0,1,BB,Online,Direct,No Deposit,110.74,0,1,0
+HB100466,City Hotel,2026-06-09,2026-08-07,Summer,Deluxe,Transient-Party,59,2,0,2,BB,Agent,Online TA,No Deposit,145.43,0,1,0
+HB100467,City Hotel,2025-10-06,2025-12-26,Winter,Standard,Transient,81,3,0,3,SC,Online,Online TA,No Deposit,70.74,0,0,0
+HB100468,City Hotel,2025-08-05,2025-08-16,Summer,Suite,Transient,11,1,0,6,BB,Offline,Corporate,Refundable,219.21,1,0,0
+HB100469,Resort Hotel,2025-09-30,2025-10-09,Autumn,Standard,Transient-Party,9,2,0,1,BB,Online,Direct,Non Refund,81.02,0,1,0
+HB100470,City Hotel,2025-03-03,2025-03-08,Spring,Standard,Transient,5,2,2,1,BB,Online,Direct,No Deposit,83.48,0,3,0
+HB100471,Resort Hotel,2026-08-19,2026-10-10,Autumn,Standard,Transient,52,3,0,4,BB,Online,Online TA,Non Refund,100.46,0,0,0
+HB100472,City Hotel,2025-12-08,2026-02-08,Winter,Standard,Transient,62,4,0,7,BB,Online,Online TA,No Deposit,81.74,0,1,0
+HB100473,City Hotel,2026-02-01,2026-02-02,Winter,Suite,Contract,1,2,0,3,HB,Agent,Online TA,No Deposit,207.31,0,1,0
+HB100474,City Hotel,2025-01-19,2025-05-26,Spring,Standard,Transient,127,4,0,1,BB,Online,Online TA,No Deposit,70.62,0,1,0
+HB100475,Resort Hotel,2025-06-26,2025-06-28,Summer,Standard,Transient,2,2,1,5,BB,Agent,Corporate,Non Refund,117.85,0,1,1
+HB100476,City Hotel,2026-09-04,2026-10-14,Autumn,Standard,Transient,40,3,0,3,BB,Agent,Offline TA/TO,No Deposit,85.99,0,1,0
+HB100477,City Hotel,2026-01-31,2026-04-04,Spring,Standard,Transient,63,2,0,2,BB,Online,Online TA,No Deposit,84.74,0,0,0
+HB100478,City Hotel,2026-03-21,2026-06-29,Summer,Standard,Transient,100,2,0,1,BB,Corporate,Direct,No Deposit,90.75,0,0,0
+HB100479,Resort Hotel,2025-08-21,2025-10-23,Autumn,Suite,Transient-Party,63,2,0,2,BB,Agent,Online TA,No Deposit,241.96,0,1,1
+HB100480,Resort Hotel,2025-03-17,2025-06-06,Summer,Standard,Transient,81,2,0,6,BB,Agent,Online TA,No Deposit,102.87,0,1,1
+HB100481,City Hotel,2025-09-22,2025-10-13,Autumn,Deluxe,Transient,21,2,1,1,BB,Online,Direct,No Deposit,132.8,0,0,0
+HB100482,Resort Hotel,2026-03-31,2026-06-23,Summer,Deluxe,Transient,84,2,1,3,BB,Online,Groups,Non Refund,120.11,0,1,1
+HB100483,Resort Hotel,2026-01-19,2026-01-23,Winter,Standard,Transient-Party,4,2,0,1,HB,Agent,Online TA,Non Refund,81.03,0,0,0
+HB100484,City Hotel,2026-07-18,2026-11-03,Autumn,Standard,Contract,108,2,0,2,HB,Agent,Direct,No Deposit,82.58,0,0,0
+HB100485,Resort Hotel,2026-05-21,2026-07-01,Summer,Deluxe,Transient,41,2,1,2,BB,Online,Direct,Non Refund,122.2,2,1,1
+HB100486,City Hotel,2026-01-02,2026-03-28,Spring,Standard,Transient,85,3,2,3,BB,Agent,Online TA,No Deposit,80.1,0,0,0
+HB100487,City Hotel,2025-05-24,2025-06-24,Summer,Superior,Transient-Party,31,2,2,2,BB,Offline,Corporate,Non Refund,174.81,0,3,0
+HB100488,Resort Hotel,2025-03-10,2025-05-02,Spring,Superior,Transient,53,2,0,1,BB,Online,Offline TA/TO,No Deposit,173.67,0,2,0
+HB100489,Resort Hotel,2025-04-09,2025-05-17,Spring,Deluxe,Transient,38,2,0,7,BB,Online,Offline TA/TO,No Deposit,120.62,0,1,0
+HB100490,Resort Hotel,2026-01-31,2026-04-08,Spring,Suite,Transient-Party,67,2,0,6,HB,Online,Online TA,No Deposit,180.99,0,0,0
+HB100491,City Hotel,2025-01-25,2025-01-29,Winter,Standard,Transient,4,3,1,4,BB,Online,Direct,No Deposit,62.73,2,2,0
+HB100492,City Hotel,2026-04-14,2026-04-17,Spring,Superior,Transient,3,2,2,2,HB,Corporate,Direct,No Deposit,144.33,0,3,0
+HB100493,City Hotel,2026-04-29,2026-05-13,Spring,Deluxe,Transient-Party,14,1,0,3,SC,Online,Online TA,No Deposit,122.42,1,0,0
+HB100494,Resort Hotel,2026-07-19,2026-07-28,Summer,Superior,Transient-Party,9,3,0,1,BB,Agent,Online TA,No Deposit,208.22,0,2,0
+HB100495,City Hotel,2025-05-31,2025-09-08,Autumn,Deluxe,Transient,100,2,2,2,BB,Agent,Direct,No Deposit,117.43,0,0,0
+HB100496,Resort Hotel,2025-05-24,2025-06-06,Summer,Superior,Transient,13,2,0,3,BB,Online,Direct,No Deposit,193.93,0,2,0
+HB100497,Resort Hotel,2026-07-23,2026-12-24,Winter,Standard,Transient,154,3,0,2,BB,Offline,Online TA,Refundable,81.98,0,0,0
+HB100498,Resort Hotel,2025-02-08,2025-03-01,Spring,Superior,Contract,21,2,0,3,BB,Agent,Online TA,Non Refund,152.88,0,3,0
+HB100499,City Hotel,2025-04-19,2025-04-29,Spring,Standard,Transient,10,3,0,1,BB,Agent,Offline TA/TO,No Deposit,85.03,0,1,0
+HB100500,Resort Hotel,2025-02-11,2025-04-30,Spring,Deluxe,Transient,78,3,0,6,HB,Online,Direct,Non Refund,121.04,0,0,1
+HB100501,Resort Hotel,2025-07-05,2025-08-29,Summer,Superior,Transient,55,2,0,3,HB,Online,Direct,No Deposit,211.08,0,1,0
+HB100502,City Hotel,2026-02-02,2026-03-09,Spring,Standard,Group,35,3,0,2,HB,Agent,Direct,Non Refund,88.75,0,0,1
+HB100503,City Hotel,2025-08-11,2025-09-22,Autumn,Deluxe,Transient,42,2,0,3,HB,Online,Online TA,No Deposit,131.22,1,1,1
+HB100504,City Hotel,2026-09-26,2026-11-29,Autumn,Standard,Transient,64,2,0,2,BB,Online,Corporate,Non Refund,89.61,0,1,1
+HB100505,City Hotel,2025-05-13,2025-05-26,Spring,Deluxe,Group,13,2,0,1,SC,Online,Direct,No Deposit,106.61,0,0,0
+HB100506,Resort Hotel,2025-06-12,2025-12-05,Winter,Standard,Transient,176,2,0,4,BB,Online,Online TA,No Deposit,87.58,0,1,1
+HB100507,City Hotel,2025-08-03,2026-01-03,Winter,Deluxe,Transient-Party,153,4,1,2,BB,Offline,Online TA,No Deposit,113.76,0,2,0
+HB100508,Resort Hotel,2025-08-23,2025-10-16,Autumn,Standard,Transient,54,3,0,1,HB,Online,Online TA,Refundable,86.33,0,1,0
+HB100509,Resort Hotel,2026-08-11,2026-08-22,Summer,Standard,Transient,11,3,0,2,BB,Online,Online TA,No Deposit,115.85,0,0,0
+HB100510,City Hotel,2025-01-09,2025-03-08,Spring,Superior,Group,58,2,0,4,FB,Agent,Offline TA/TO,Refundable,157.27,0,3,0
+HB100511,Resort Hotel,2025-03-15,2025-03-18,Spring,Standard,Transient,3,3,0,1,BB,Offline,Direct,No Deposit,76.69,0,1,0
+HB100512,Resort Hotel,2026-05-07,2026-05-08,Spring,Deluxe,Transient,1,2,0,4,BB,Online,Groups,No Deposit,118.79,1,1,0
+HB100513,Resort Hotel,2025-09-10,2025-09-25,Autumn,Standard,Transient,15,2,0,2,BB,Online,Direct,No Deposit,101.14,0,1,0
+HB100514,City Hotel,2025-08-18,2025-09-19,Autumn,Standard,Transient,32,4,0,7,FB,Online,Groups,No Deposit,83.5,1,1,0
+HB100515,Resort Hotel,2026-06-03,2026-09-10,Autumn,Deluxe,Transient,99,2,0,1,BB,Online,Offline TA/TO,Refundable,109.36,0,3,0
+HB100516,City Hotel,2025-06-23,2025-08-28,Summer,Deluxe,Transient-Party,66,2,1,1,BB,Online,Direct,No Deposit,138.84,0,1,0
+HB100517,City Hotel,2025-06-17,2025-08-25,Summer,Superior,Transient,69,2,0,4,BB,Online,Online TA,No Deposit,182.61,0,0,1
+HB100518,Resort Hotel,2025-06-19,2025-07-17,Summer,Suite,Contract,28,3,0,1,BB,Online,Online TA,No Deposit,278.51,0,0,0
+HB100519,Resort Hotel,2026-01-28,2026-02-19,Winter,Standard,Transient,22,2,1,5,HB,Online,Online TA,No Deposit,80.73,0,2,0
+HB100520,Resort Hotel,2026-09-26,2026-10-20,Autumn,Suite,Transient-Party,24,2,0,1,BB,Corporate,Direct,No Deposit,227.49,0,1,0
+HB100521,Resort Hotel,2025-07-13,2025-12-25,Winter,Standard,Transient,165,2,0,8,BB,Online,Direct,No Deposit,68.24,0,0,1
+HB100522,Resort Hotel,2026-06-01,2026-06-03,Summer,Standard,Transient,2,2,0,1,HB,Online,Offline TA/TO,Refundable,94.95,0,1,0
+HB100523,City Hotel,2025-01-29,2025-05-08,Spring,Superior,Transient,99,2,1,1,BB,Online,Online TA,No Deposit,127.06,0,2,0
+HB100524,Resort Hotel,2025-06-14,2025-07-28,Summer,Standard,Transient,44,2,0,1,SC,Online,Offline TA/TO,No Deposit,97.09,1,1,0
+HB100525,Resort Hotel,2026-02-26,2026-03-28,Spring,Superior,Group,30,2,0,1,BB,Online,Direct,No Deposit,162.96,0,2,0
+HB100526,City Hotel,2025-12-05,2026-02-08,Winter,Standard,Transient,65,2,0,6,BB,Online,Online TA,No Deposit,69.01,0,1,0
+HB100527,Resort Hotel,2026-05-11,2026-06-14,Summer,Deluxe,Contract,34,2,2,5,BB,Agent,Direct,Non Refund,127.63,0,0,0
+HB100528,City Hotel,2025-12-31,2026-04-11,Spring,Superior,Transient,101,2,0,1,BB,Online,Online TA,Non Refund,155.81,0,0,1
+HB100529,Resort Hotel,2025-12-08,2026-03-29,Spring,Suite,Transient,111,2,0,1,BB,Online,Direct,No Deposit,247.61,0,1,0
+HB100530,City Hotel,2026-05-15,2026-06-12,Summer,Superior,Transient,28,2,1,2,BB,Agent,Groups,No Deposit,151.4,0,2,0
+HB100531,Resort Hotel,2026-05-26,2026-06-12,Summer,Deluxe,Transient,17,2,1,1,BB,Agent,Corporate,No Deposit,127.93,0,0,1
+HB100532,Resort Hotel,2025-11-23,2026-01-08,Winter,Deluxe,Transient,46,4,1,1,FB,Offline,Online TA,Non Refund,97.23,0,1,0
+HB100533,City Hotel,2025-08-05,2025-11-28,Autumn,Deluxe,Transient,115,4,0,3,HB,Online,Direct,Non Refund,117.83,0,1,0
+HB100534,Resort Hotel,2025-10-28,2025-11-09,Autumn,Deluxe,Contract,12,2,0,6,BB,Online,Direct,Non Refund,114.77,3,0,1
+HB100535,City Hotel,2025-05-12,2025-07-01,Summer,Superior,Transient-Party,50,2,0,5,SC,Online,Direct,Refundable,161.97,0,1,1
+HB100536,City Hotel,2025-03-11,2025-05-01,Spring,Superior,Transient,51,2,1,3,BB,Online,Online TA,No Deposit,159.51,1,1,1
+HB100537,City Hotel,2025-09-09,2025-11-15,Autumn,Standard,Transient,67,2,0,1,BB,Online,Online TA,No Deposit,83.76,0,1,0
+HB100538,City Hotel,2026-02-19,2026-02-26,Winter,Standard,Transient,7,2,1,1,FB,Agent,Online TA,No Deposit,82.5,0,2,0
+HB100539,City Hotel,2026-03-21,2026-05-24,Spring,Standard,Transient,64,3,0,5,BB,Online,Offline TA/TO,Non Refund,66.22,0,0,1
+HB100540,City Hotel,2025-07-01,2025-10-23,Autumn,Deluxe,Transient-Party,114,2,0,6,BB,Online,Online TA,No Deposit,123.44,0,1,0
+HB100541,City Hotel,2025-06-16,2025-06-26,Summer,Superior,Transient-Party,10,2,0,2,BB,Online,Online TA,No Deposit,179.0,1,2,1
+HB100542,City Hotel,2025-04-01,2025-04-15,Spring,Standard,Transient,14,2,0,4,BB,Online,Offline TA/TO,Non Refund,76.17,0,0,0
+HB100543,City Hotel,2026-06-15,2026-11-12,Autumn,Standard,Transient,150,2,0,4,BB,Online,Offline TA/TO,Refundable,76.3,0,0,0
+HB100544,Resort Hotel,2025-02-08,2025-02-18,Winter,Deluxe,Transient,10,2,0,3,BB,Agent,Groups,No Deposit,103.74,1,2,0
+HB100545,Resort Hotel,2025-05-06,2025-08-09,Summer,Superior,Transient,95,2,1,6,BB,Online,Direct,No Deposit,209.34,0,0,1
+HB100546,City Hotel,2026-03-27,2026-05-01,Spring,Deluxe,Transient-Party,35,3,1,4,BB,Offline,Direct,No Deposit,123.02,0,1,0
+HB100547,Resort Hotel,2025-06-22,2025-07-06,Summer,Standard,Transient,14,3,0,7,BB,Agent,Online TA,Refundable,116.57,0,1,0
+HB100548,City Hotel,2025-08-08,2025-11-16,Autumn,Deluxe,Transient,100,2,2,1,FB,Online,Offline TA/TO,No Deposit,108.69,0,2,1
+HB100549,City Hotel,2026-09-30,2026-10-30,Autumn,Suite,Contract,30,2,0,2,BB,Agent,Online TA,No Deposit,238.03,0,0,0
+HB100550,Resort Hotel,2025-02-27,2025-04-05,Spring,Standard,Transient,37,3,2,5,BB,Agent,Offline TA/TO,No Deposit,89.16,0,4,0
+HB100551,Resort Hotel,2026-04-21,2026-05-14,Spring,Suite,Transient,23,1,0,4,BB,Offline,Offline TA/TO,No Deposit,207.71,0,0,0
+HB100552,City Hotel,2026-04-01,2026-05-17,Spring,Superior,Transient,46,2,2,3,BB,Agent,Online TA,No Deposit,161.7,0,2,0
+HB100553,Resort Hotel,2025-12-27,2026-01-05,Winter,Standard,Transient,9,2,0,1,BB,Agent,Offline TA/TO,No Deposit,83.86,0,2,0
+HB100554,City Hotel,2025-01-01,2025-01-26,Winter,Standard,Transient-Party,25,2,3,1,BB,Agent,Offline TA/TO,No Deposit,77.93,0,0,0
+HB100555,City Hotel,2026-01-22,2026-06-19,Summer,Deluxe,Transient,148,2,1,5,BB,Agent,Online TA,No Deposit,131.55,1,1,1
+HB100556,Resort Hotel,2025-12-14,2025-12-29,Winter,Superior,Transient,15,3,0,3,BB,Online,Corporate,No Deposit,141.86,0,3,0
+HB100557,City Hotel,2025-07-09,2025-09-02,Autumn,Deluxe,Transient,55,2,0,4,BB,Online,Online TA,No Deposit,116.55,0,2,0
+HB100558,Resort Hotel,2026-05-20,2026-06-09,Summer,Deluxe,Transient,20,2,0,2,HB,Agent,Online TA,No Deposit,119.09,1,0,0
+HB100559,Resort Hotel,2025-07-10,2025-09-23,Autumn,Standard,Transient,75,2,0,5,BB,Online,Online TA,No Deposit,84.17,0,1,1
+HB100560,City Hotel,2026-05-23,2026-05-30,Spring,Superior,Contract,7,2,0,4,BB,Online,Offline TA/TO,No Deposit,160.96,0,0,0
+HB100561,Resort Hotel,2026-01-04,2026-06-02,Summer,Standard,Transient,149,3,0,5,BB,Agent,Offline TA/TO,No Deposit,97.75,1,0,0
+HB100562,Resort Hotel,2026-02-13,2026-03-16,Spring,Standard,Group,31,1,0,1,BB,Agent,Groups,No Deposit,72.64,0,3,0
+HB100563,City Hotel,2025-04-27,2025-05-11,Spring,Standard,Transient,14,3,0,2,BB,Offline,Corporate,No Deposit,76.45,0,1,0
+HB100564,Resort Hotel,2025-05-14,2025-05-18,Spring,Suite,Transient,4,2,0,2,BB,Agent,Online TA,No Deposit,243.02,1,0,1
+HB100565,City Hotel,2025-02-27,2025-03-08,Spring,Standard,Transient,9,2,2,6,BB,Online,Direct,Non Refund,75.45,0,2,1
+HB100566,City Hotel,2026-07-10,2026-08-17,Summer,Standard,Contract,38,2,2,2,FB,Online,Corporate,No Deposit,109.82,0,2,0
+HB100567,City Hotel,2025-06-22,2025-07-13,Summer,Standard,Transient,21,2,0,2,BB,Corporate,Online TA,No Deposit,87.4,0,2,1
+HB100568,City Hotel,2025-05-29,2025-08-24,Summer,Standard,Contract,87,3,0,3,BB,Online,Online TA,No Deposit,84.58,0,3,0
+HB100569,City Hotel,2025-03-21,2025-04-19,Spring,Deluxe,Transient,29,2,0,5,BB,Online,Direct,Non Refund,103.68,0,1,0
+HB100570,City Hotel,2025-08-01,2025-08-16,Summer,Standard,Transient,15,2,0,7,HB,Online,Offline TA/TO,No Deposit,95.81,0,4,0
+HB100571,City Hotel,2025-07-22,2025-09-09,Autumn,Superior,Contract,49,3,0,1,BB,Online,Corporate,No Deposit,178.43,1,2,0
+HB100572,City Hotel,2025-08-17,2025-10-18,Autumn,Standard,Contract,62,2,0,2,BB,Offline,Offline TA/TO,No Deposit,77.7,0,3,0
+HB100573,City Hotel,2025-08-15,2025-08-24,Summer,Standard,Contract,9,4,1,4,HB,Online,Online TA,No Deposit,82.71,0,1,0
+HB100574,Resort Hotel,2026-06-16,2026-06-25,Summer,Superior,Transient-Party,9,3,0,1,BB,Agent,Online TA,No Deposit,191.22,0,3,0
+HB100575,City Hotel,2026-03-17,2026-03-18,Spring,Standard,Transient,1,2,1,2,HB,Agent,Groups,Refundable,83.62,0,4,0
+HB100576,City Hotel,2026-02-06,2026-04-14,Spring,Superior,Transient,67,2,0,3,BB,Online,Online TA,No Deposit,161.36,1,0,0
+HB100577,City Hotel,2025-02-16,2025-04-13,Spring,Deluxe,Transient,56,3,0,2,HB,Agent,Online TA,No Deposit,92.2,0,1,0
+HB100578,Resort Hotel,2025-08-21,2025-09-23,Autumn,Standard,Transient-Party,33,2,0,1,BB,Corporate,Offline TA/TO,No Deposit,86.27,0,1,0
+HB100579,Resort Hotel,2025-11-01,2026-02-01,Winter,Standard,Transient,92,3,0,2,BB,Agent,Online TA,No Deposit,81.24,0,0,0
+HB100580,Resort Hotel,2026-06-10,2026-08-31,Summer,Deluxe,Transient,82,3,0,4,BB,Online,Direct,No Deposit,158.34,0,1,1
+HB100581,City Hotel,2025-05-23,2025-07-07,Summer,Standard,Contract,45,2,0,2,HB,Corporate,Online TA,No Deposit,82.97,0,1,0
+HB100582,City Hotel,2026-02-19,2026-05-29,Spring,Superior,Transient,99,2,0,2,SC,Agent,Online TA,No Deposit,143.26,0,2,0
+HB100583,Resort Hotel,2026-05-28,2026-06-09,Summer,Suite,Transient,12,1,1,6,SC,Online,Online TA,Non Refund,252.89,1,1,1
+HB100584,Resort Hotel,2026-01-08,2026-01-14,Winter,Superior,Transient-Party,6,3,0,10,SC,Agent,Online TA,No Deposit,141.76,0,1,0
+HB100585,City Hotel,2026-07-20,2026-08-05,Summer,Standard,Contract,16,3,1,3,BB,Online,Online TA,No Deposit,99.12,0,1,0
+HB100586,City Hotel,2025-09-16,2025-09-19,Autumn,Standard,Transient,3,3,0,4,BB,Agent,Direct,Refundable,77.16,0,1,0
+HB100587,Resort Hotel,2026-04-16,2026-05-25,Spring,Standard,Transient,39,4,0,5,BB,Offline,Corporate,Non Refund,86.09,0,1,1
+HB100588,Resort Hotel,2025-01-12,2025-05-19,Spring,Standard,Group,127,2,0,6,BB,Agent,Direct,Non Refund,84.71,2,0,0
+HB100589,City Hotel,2025-11-26,2025-11-28,Autumn,Deluxe,Transient-Party,2,2,2,2,HB,Agent,Offline TA/TO,No Deposit,120.87,0,1,0
+HB100590,Resort Hotel,2025-12-24,2025-12-30,Winter,Deluxe,Transient,6,2,2,1,BB,Online,Direct,Non Refund,99.88,0,0,0
+HB100591,Resort Hotel,2026-02-12,2026-03-15,Spring,Standard,Transient,31,2,0,2,SC,Online,Direct,No Deposit,73.49,1,0,0
+HB100592,Resort Hotel,2026-01-08,2026-05-14,Spring,Superior,Contract,126,2,0,2,SC,Online,Direct,No Deposit,134.59,3,0,1
+HB100593,City Hotel,2025-01-08,2025-01-27,Winter,Standard,Transient,19,4,0,2,BB,Corporate,Direct,No Deposit,67.49,0,0,0
+HB100594,City Hotel,2025-05-02,2025-06-07,Summer,Deluxe,Transient,36,2,0,6,BB,Online,Online TA,Non Refund,141.64,0,1,0
+HB100595,Resort Hotel,2025-12-14,2025-12-16,Winter,Standard,Transient,2,2,0,6,HB,Online,Offline TA/TO,No Deposit,90.57,0,0,0
+HB100596,City Hotel,2025-03-31,2025-04-08,Spring,Standard,Transient,8,3,0,2,BB,Agent,Online TA,No Deposit,84.34,0,2,0
+HB100597,City Hotel,2025-11-12,2026-04-25,Spring,Deluxe,Transient,164,2,0,2,BB,Online,Online TA,No Deposit,116.74,1,0,0
+HB100598,City Hotel,2025-06-27,2025-11-19,Autumn,Superior,Transient,145,2,1,2,BB,Online,Direct,No Deposit,170.58,0,0,0
+HB100599,City Hotel,2026-06-24,2026-06-24,Summer,Standard,Transient,0,4,0,2,HB,Online,Corporate,Non Refund,91.74,0,1,1
+HB100600,City Hotel,2025-02-10,2025-06-26,Summer,Deluxe,Transient,136,2,0,1,FB,Agent,Online TA,No Deposit,150.06,0,1,0
+HB100601,City Hotel,2026-05-17,2026-07-08,Summer,Deluxe,Transient,52,2,2,3,BB,Online,Online TA,No Deposit,147.31,0,1,0
+HB100602,Resort Hotel,2025-05-25,2025-09-01,Autumn,Standard,Transient-Party,99,1,0,2,BB,Agent,Corporate,No Deposit,98.24,1,0,1
+HB100603,City Hotel,2025-07-20,2025-08-20,Summer,Deluxe,Group,31,2,2,1,BB,Online,Offline TA/TO,No Deposit,141.51,0,1,0
+HB100604,Resort Hotel,2026-04-06,2026-05-13,Spring,Superior,Transient,37,4,0,1,BB,Online,Online TA,No Deposit,145.47,0,1,0
+HB100605,City Hotel,2026-07-12,2026-08-15,Summer,Standard,Transient-Party,34,2,0,1,BB,Agent,Online TA,No Deposit,86.87,0,0,0
+HB100606,City Hotel,2026-07-01,2026-08-26,Summer,Deluxe,Transient,56,2,0,3,BB,Online,Direct,No Deposit,118.09,1,2,0
+HB100607,City Hotel,2025-09-10,2025-09-17,Autumn,Standard,Transient,7,3,0,5,BB,Online,Online TA,No Deposit,85.13,0,2,0
+HB100608,City Hotel,2026-01-25,2026-01-26,Winter,Deluxe,Transient,1,1,0,4,FB,Online,Online TA,No Deposit,96.03,0,0,0
+HB100609,Resort Hotel,2026-08-17,2026-09-05,Autumn,Suite,Transient,19,3,1,2,HB,Online,Online TA,No Deposit,251.48,0,2,0
+HB100610,Resort Hotel,2025-09-13,2025-11-14,Autumn,Superior,Transient,62,2,0,8,BB,Online,Direct,Refundable,153.15,0,2,0
+HB100611,City Hotel,2026-03-26,2026-04-06,Spring,Deluxe,Transient,11,2,0,1,BB,Agent,Online TA,No Deposit,91.95,1,1,0
+HB100612,City Hotel,2025-01-10,2025-03-08,Spring,Superior,Transient,57,2,0,1,FB,Agent,Online TA,No Deposit,143.96,0,0,0
+HB100613,City Hotel,2025-08-30,2026-01-26,Winter,Standard,Transient,149,3,2,4,BB,Corporate,Online TA,No Deposit,85.41,0,3,0
+HB100614,City Hotel,2025-09-08,2025-09-13,Autumn,Deluxe,Transient,5,1,0,1,BB,Online,Direct,No Deposit,116.09,0,2,0
+HB100615,City Hotel,2025-01-05,2025-03-03,Spring,Superior,Transient,57,2,1,1,BB,Agent,Direct,No Deposit,134.65,0,0,0
+HB100616,City Hotel,2025-04-29,2025-05-29,Spring,Suite,Transient,30,3,1,1,BB,Corporate,Online TA,No Deposit,220.89,1,0,0
+HB100617,City Hotel,2026-01-09,2026-04-18,Spring,Deluxe,Transient,99,2,0,2,FB,Online,Online TA,No Deposit,100.06,0,2,0
+HB100618,City Hotel,2025-03-06,2025-03-16,Spring,Deluxe,Transient,10,2,2,5,FB,Online,Offline TA/TO,No Deposit,91.84,0,1,0
+HB100619,City Hotel,2025-05-26,2025-07-25,Summer,Suite,Transient,60,3,0,5,HB,Agent,Online TA,No Deposit,241.8,0,1,1
+HB100620,Resort Hotel,2025-08-12,2025-11-10,Autumn,Deluxe,Transient-Party,90,2,1,1,FB,Online,Direct,Non Refund,123.51,0,0,1
+HB100621,Resort Hotel,2025-08-27,2026-01-06,Winter,Superior,Contract,132,2,0,2,BB,Online,Direct,Refundable,161.66,0,4,1
+HB100622,City Hotel,2025-06-26,2025-08-23,Summer,Standard,Transient,58,3,0,3,BB,Online,Corporate,Refundable,91.6,0,2,0
+HB100623,City Hotel,2025-10-09,2025-11-13,Autumn,Deluxe,Transient,35,2,0,1,BB,Agent,Direct,No Deposit,108.06,0,0,0
+HB100624,City Hotel,2025-03-04,2025-04-22,Spring,Suite,Transient,49,1,1,7,BB,Corporate,Direct,No Deposit,216.67,0,1,0
+HB100625,Resort Hotel,2025-08-05,2025-11-12,Autumn,Deluxe,Transient,99,2,0,5,BB,Online,Offline TA/TO,No Deposit,121.67,0,3,0
+HB100626,City Hotel,2026-04-06,2026-05-19,Spring,Superior,Transient-Party,43,2,0,4,HB,Online,Online TA,No Deposit,147.14,0,2,0
+HB100627,Resort Hotel,2026-09-02,2026-09-03,Autumn,Deluxe,Transient,1,2,0,4,BB,Agent,Corporate,No Deposit,147.47,0,1,0
+HB100628,City Hotel,2025-04-15,2025-08-17,Summer,Standard,Transient,124,2,0,6,BB,Agent,Offline TA/TO,No Deposit,85.48,0,0,0
+HB100629,Resort Hotel,2025-04-09,2025-06-07,Summer,Superior,Transient,59,2,2,1,BB,Agent,Corporate,No Deposit,175.47,1,0,0
+HB100630,Resort Hotel,2026-05-26,2026-07-22,Summer,Superior,Transient-Party,57,2,0,1,BB,Online,Corporate,No Deposit,186.56,0,0,0
+HB100631,City Hotel,2026-01-20,2026-02-01,Winter,Superior,Transient,12,3,0,8,BB,Corporate,Online TA,No Deposit,125.67,0,2,0
+HB100632,City Hotel,2026-02-09,2026-04-05,Spring,Standard,Transient,55,2,0,1,BB,Online,Direct,Refundable,80.31,0,0,1
+HB100633,City Hotel,2026-06-02,2026-06-28,Summer,Standard,Transient,26,4,1,3,BB,Online,Groups,No Deposit,94.31,0,3,0
+HB100634,Resort Hotel,2026-04-21,2026-06-14,Summer,Suite,Transient,54,1,1,1,BB,Online,Direct,No Deposit,290.91,0,0,1
+HB100635,City Hotel,2026-03-13,2026-03-18,Spring,Standard,Transient,5,2,2,8,BB,Online,Corporate,No Deposit,69.94,0,2,0
+HB100636,City Hotel,2025-01-23,2025-03-19,Spring,Superior,Transient,55,2,1,2,BB,Agent,Direct,No Deposit,151.57,0,0,0
+HB100637,Resort Hotel,2026-07-19,2027-01-15,Winter,Suite,Transient-Party,180,3,0,4,BB,Agent,Online TA,Non Refund,200.08,0,0,0
+HB100638,City Hotel,2026-04-03,2026-04-05,Spring,Standard,Transient,2,2,0,1,BB,Agent,Groups,Non Refund,82.99,0,2,0
+HB100639,Resort Hotel,2025-03-24,2025-08-26,Summer,Deluxe,Transient,155,3,0,1,BB,Agent,Online TA,No Deposit,144.91,0,1,1
+HB100640,Resort Hotel,2025-05-25,2025-06-21,Summer,Standard,Transient,27,2,1,1,FB,Online,Direct,No Deposit,118.22,0,2,0
+HB100641,Resort Hotel,2025-03-26,2025-07-04,Summer,Deluxe,Transient,100,3,0,2,BB,Corporate,Offline TA/TO,No Deposit,160.95,1,2,1
+HB100642,Resort Hotel,2025-03-19,2025-06-03,Summer,Deluxe,Transient-Party,76,3,0,3,FB,Online,Online TA,No Deposit,119.38,0,4,0
+HB100643,City Hotel,2026-04-02,2026-05-15,Spring,Superior,Transient,43,2,0,1,BB,Offline,Online TA,No Deposit,148.29,0,2,0
+HB100644,Resort Hotel,2025-01-01,2025-03-10,Spring,Deluxe,Transient,68,3,0,2,BB,Agent,Online TA,No Deposit,118.82,0,0,0
+HB100645,City Hotel,2025-02-20,2025-06-02,Summer,Deluxe,Group,102,2,0,1,BB,Online,Direct,Non Refund,126.42,0,4,0
+HB100646,Resort Hotel,2026-03-22,2026-04-18,Spring,Deluxe,Transient-Party,27,2,0,3,FB,Online,Online TA,No Deposit,130.09,0,2,0
+HB100647,City Hotel,2026-03-25,2026-04-14,Spring,Superior,Transient,20,2,1,1,BB,Online,Online TA,No Deposit,155.2,0,1,0
+HB100648,Resort Hotel,2026-05-03,2026-06-28,Summer,Standard,Transient-Party,56,3,1,1,FB,Online,Offline TA/TO,No Deposit,113.79,0,1,0
+HB100649,City Hotel,2025-02-03,2025-04-26,Spring,Suite,Transient,82,2,0,6,HB,Agent,Direct,No Deposit,218.34,0,2,0
+HB100650,Resort Hotel,2025-12-14,2026-02-24,Winter,Superior,Transient,72,3,0,2,BB,Online,Online TA,No Deposit,123.85,0,2,0
+HB100651,City Hotel,2025-04-05,2025-06-24,Summer,Superior,Transient,80,2,0,2,BB,Agent,Direct,Non Refund,144.19,1,1,1
+HB100652,Resort Hotel,2025-03-13,2025-04-11,Spring,Superior,Contract,29,2,0,5,BB,Online,Online TA,No Deposit,173.09,1,1,1
+HB100653,Resort Hotel,2026-07-05,2026-09-28,Autumn,Standard,Transient-Party,85,1,1,2,BB,Online,Groups,No Deposit,80.19,1,0,1
+HB100654,Resort Hotel,2025-06-03,2025-06-09,Summer,Standard,Transient,6,2,2,7,HB,Online,Online TA,No Deposit,110.62,1,0,0
+HB100655,City Hotel,2025-09-07,2025-10-17,Autumn,Standard,Group,40,2,0,2,HB,Online,Direct,No Deposit,84.63,0,2,1
+HB100656,Resort Hotel,2026-03-14,2026-03-14,Spring,Superior,Transient,0,2,1,10,SC,Corporate,Online TA,No Deposit,157.37,1,2,0
+HB100657,City Hotel,2025-04-28,2025-05-18,Spring,Standard,Transient,20,1,0,2,BB,Online,Corporate,No Deposit,82.07,0,0,0
+HB100658,Resort Hotel,2025-11-02,2025-11-25,Autumn,Suite,Transient,23,2,0,3,BB,Agent,Online TA,No Deposit,256.84,1,0,0
+HB100659,City Hotel,2025-09-25,2025-10-21,Autumn,Standard,Transient,26,2,0,8,BB,Online,Online TA,No Deposit,101.51,0,1,0
+HB100660,Resort Hotel,2025-02-23,2025-04-24,Spring,Standard,Transient,60,2,0,6,BB,Agent,Online TA,No Deposit,85.21,0,1,0
+HB100661,Resort Hotel,2025-08-24,2025-09-18,Autumn,Standard,Transient,25,2,1,3,BB,Online,Offline TA/TO,No Deposit,98.81,0,0,0
+HB100662,City Hotel,2026-01-24,2026-02-24,Winter,Superior,Transient,31,2,0,6,BB,Online,Online TA,Non Refund,142.65,0,1,0
+HB100663,City Hotel,2026-02-05,2026-02-19,Winter,Deluxe,Transient,14,2,0,1,BB,Online,Online TA,No Deposit,87.42,0,0,0
+HB100664,Resort Hotel,2026-09-16,2026-10-10,Autumn,Suite,Transient,24,2,0,3,BB,Online,Corporate,Non Refund,252.44,0,1,0
+HB100665,Resort Hotel,2025-10-30,2025-11-12,Autumn,Deluxe,Contract,13,2,1,1,BB,Corporate,Online TA,No Deposit,127.94,0,1,0
+HB100666,City Hotel,2025-07-26,2025-07-30,Summer,Suite,Transient,4,2,2,8,HB,Online,Online TA,No Deposit,215.47,0,0,0
+HB100667,City Hotel,2025-08-17,2025-10-03,Autumn,Standard,Transient-Party,47,3,0,2,BB,Online,Direct,Non Refund,99.78,0,0,0
+HB100668,City Hotel,2026-08-01,2026-09-26,Autumn,Deluxe,Transient,56,2,0,3,BB,Agent,Online TA,Non Refund,134.37,0,4,0
+HB100669,Resort Hotel,2025-03-16,2025-05-04,Spring,Suite,Transient,49,2,0,3,FB,Agent,Direct,No Deposit,203.55,1,2,0
+HB100670,City Hotel,2026-03-11,2026-04-12,Spring,Superior,Transient,32,2,3,2,BB,Online,Offline TA/TO,Non Refund,132.18,0,2,0
+HB100671,City Hotel,2025-04-13,2025-05-08,Spring,Superior,Transient,25,3,0,1,BB,Online,Online TA,No Deposit,130.63,0,1,1
+HB100672,City Hotel,2026-02-26,2026-06-03,Summer,Standard,Transient,97,2,0,9,BB,Agent,Direct,Non Refund,101.35,0,2,0
+HB100673,Resort Hotel,2025-11-02,2025-12-10,Winter,Standard,Transient-Party,38,3,3,6,BB,Online,Corporate,No Deposit,93.99,0,2,1
+HB100674,City Hotel,2025-04-08,2025-05-12,Spring,Standard,Transient-Party,34,2,0,3,BB,Online,Offline TA/TO,Non Refund,68.21,0,1,0
+HB100675,Resort Hotel,2025-12-01,2025-12-02,Winter,Deluxe,Transient,1,4,1,2,BB,Online,Corporate,No Deposit,102.32,0,2,1
+HB100676,City Hotel,2026-03-11,2026-04-01,Spring,Superior,Transient-Party,21,3,2,5,BB,Corporate,Offline TA/TO,Non Refund,131.17,0,1,1
+HB100677,Resort Hotel,2026-03-23,2026-04-17,Spring,Superior,Transient,25,2,1,2,BB,Online,Offline TA/TO,No Deposit,171.47,0,0,0
+HB100678,Resort Hotel,2025-11-04,2025-11-30,Autumn,Standard,Transient,26,4,0,1,BB,Online,Direct,Non Refund,108.5,0,3,0
+HB100679,City Hotel,2025-09-06,2025-10-20,Autumn,Standard,Transient,44,2,2,2,BB,Online,Direct,No Deposit,97.9,0,3,0
+HB100680,City Hotel,2025-06-15,2025-07-24,Summer,Standard,Transient,39,1,0,3,BB,Agent,Online TA,Non Refund,106.76,2,1,0
+HB100681,Resort Hotel,2026-04-26,2026-06-13,Summer,Standard,Transient,48,3,0,1,BB,Agent,Offline TA/TO,No Deposit,115.17,0,0,0
+HB100682,City Hotel,2025-12-01,2026-02-12,Winter,Superior,Transient,73,2,0,2,BB,Corporate,Direct,Non Refund,138.93,0,2,0
+HB100683,Resort Hotel,2026-06-26,2026-09-17,Autumn,Deluxe,Group,83,4,0,2,HB,Online,Direct,No Deposit,148.92,1,0,1
+HB100684,City Hotel,2025-04-16,2025-06-19,Summer,Standard,Transient-Party,64,3,0,3,BB,Online,Online TA,No Deposit,81.76,0,0,0
+HB100685,City Hotel,2026-07-17,2026-12-02,Winter,Deluxe,Transient,138,2,0,1,BB,Online,Direct,No Deposit,114.72,0,1,0
+HB100686,City Hotel,2025-03-22,2025-03-22,Spring,Standard,Transient-Party,0,2,0,4,HB,Online,Online TA,No Deposit,73.09,1,4,0
+HB100687,City Hotel,2025-05-13,2025-05-24,Spring,Superior,Transient,11,2,2,1,BB,Offline,Groups,No Deposit,162.05,0,1,0
+HB100688,Resort Hotel,2025-05-18,2025-05-18,Spring,Standard,Transient,0,3,0,9,HB,Offline,Online TA,No Deposit,90.12,0,1,1
+HB100689,Resort Hotel,2025-07-03,2025-08-25,Summer,Standard,Transient,53,2,0,1,BB,Online,Direct,No Deposit,89.18,0,0,0
+HB100690,Resort Hotel,2026-02-05,2026-05-25,Spring,Standard,Transient,109,2,0,6,HB,Agent,Offline TA/TO,No Deposit,72.6,3,1,0
+HB100691,City Hotel,2025-11-26,2025-12-10,Winter,Standard,Transient,14,1,1,4,FB,Online,Online TA,No Deposit,77.68,0,1,0
+HB100692,City Hotel,2026-05-23,2026-09-22,Autumn,Standard,Transient,122,2,0,5,HB,Online,Online TA,Non Refund,76.89,0,0,0
+HB100693,Resort Hotel,2025-03-10,2025-03-13,Spring,Standard,Transient,3,2,0,2,BB,Corporate,Groups,No Deposit,90.46,0,0,0
+HB100694,City Hotel,2026-06-30,2026-11-03,Autumn,Superior,Transient,126,2,0,9,BB,Online,Offline TA/TO,Non Refund,135.01,0,1,0
+HB100695,Resort Hotel,2025-02-22,2025-03-16,Spring,Suite,Transient,22,2,0,1,BB,Agent,Corporate,Non Refund,186.03,0,3,0
+HB100696,City Hotel,2026-03-26,2026-03-31,Spring,Superior,Transient,5,3,3,2,BB,Online,Offline TA/TO,No Deposit,151.79,0,2,0
+HB100697,City Hotel,2025-07-24,2025-08-27,Summer,Standard,Transient-Party,34,2,0,4,BB,Corporate,Direct,Refundable,98.87,0,1,0
+HB100698,Resort Hotel,2025-05-06,2025-05-21,Spring,Standard,Contract,15,1,0,2,HB,Online,Online TA,No Deposit,98.95,0,0,0
+HB100699,Resort Hotel,2025-02-12,2025-03-01,Spring,Standard,Group,17,3,0,3,BB,Online,Offline TA/TO,No Deposit,98.13,0,2,0
+HB100700,Resort Hotel,2025-04-21,2025-05-10,Spring,Deluxe,Transient,19,4,0,9,BB,Online,Online TA,Non Refund,103.0,0,0,1
+HB100701,City Hotel,2025-07-02,2025-09-21,Autumn,Standard,Transient,81,2,0,1,SC,Agent,Groups,No Deposit,87.41,1,0,0
+HB100702,City Hotel,2025-04-05,2025-05-15,Spring,Deluxe,Contract,40,2,0,6,BB,Agent,Online TA,Non Refund,99.31,0,1,0
+HB100703,Resort Hotel,2026-01-09,2026-01-28,Winter,Deluxe,Contract,19,2,0,5,BB,Offline,Online TA,No Deposit,105.3,0,2,0
+HB100704,Resort Hotel,2026-06-04,2026-07-22,Summer,Superior,Contract,48,3,0,3,BB,Agent,Offline TA/TO,Non Refund,182.84,0,1,0
+HB100705,City Hotel,2025-12-26,2026-02-28,Winter,Standard,Transient,64,3,0,3,SC,Offline,Corporate,No Deposit,66.54,0,0,0
+HB100706,Resort Hotel,2025-10-08,2025-10-24,Autumn,Suite,Transient,16,4,0,6,BB,Online,Groups,No Deposit,214.01,2,0,0
+HB100707,City Hotel,2025-07-14,2025-08-10,Summer,Standard,Group,27,2,1,2,BB,Online,Offline TA/TO,No Deposit,98.63,0,1,0
+HB100708,City Hotel,2025-07-14,2025-07-20,Summer,Standard,Group,6,2,1,3,BB,Online,Online TA,No Deposit,108.57,0,0,0
+HB100709,City Hotel,2025-04-03,2025-04-13,Spring,Standard,Transient-Party,10,2,0,1,HB,Online,Direct,Non Refund,78.26,0,0,0
+HB100710,City Hotel,2025-03-02,2025-04-29,Spring,Standard,Transient,58,2,1,4,BB,Online,Offline TA/TO,No Deposit,73.73,0,1,0
+HB100711,Resort Hotel,2026-09-26,2026-10-06,Autumn,Standard,Transient-Party,10,3,0,2,HB,Online,Online TA,No Deposit,81.01,0,2,0
+HB100712,Resort Hotel,2025-02-20,2025-03-30,Spring,Standard,Group,38,3,1,1,BB,Online,Direct,No Deposit,76.7,0,1,0
+HB100713,Resort Hotel,2026-02-07,2026-04-11,Spring,Superior,Transient,63,3,0,2,SC,Online,Offline TA/TO,Non Refund,174.88,0,1,0
+HB100714,Resort Hotel,2025-01-05,2025-01-10,Winter,Standard,Transient,5,2,0,3,BB,Online,Offline TA/TO,No Deposit,69.16,0,0,0
+HB100715,Resort Hotel,2026-04-11,2026-05-24,Spring,Standard,Transient,43,2,0,3,BB,Corporate,Online TA,No Deposit,90.39,0,2,0
+HB100716,City Hotel,2026-08-27,2026-09-11,Autumn,Deluxe,Transient,15,2,1,1,BB,Offline,Corporate,Non Refund,126.28,1,1,1
+HB100717,City Hotel,2026-06-18,2026-11-09,Autumn,Standard,Group,144,2,0,1,HB,Online,Online TA,Non Refund,88.57,0,0,0
+HB100718,City Hotel,2026-02-09,2026-03-15,Spring,Standard,Transient,34,3,1,3,BB,Agent,Corporate,No Deposit,76.18,0,0,0
+HB100719,City Hotel,2026-05-28,2026-08-18,Summer,Deluxe,Transient,82,3,0,3,BB,Online,Online TA,No Deposit,147.54,1,2,1
+HB100720,Resort Hotel,2025-08-21,2025-10-01,Autumn,Superior,Transient,41,2,1,6,BB,Online,Online TA,No Deposit,190.81,0,0,0
+HB100721,City Hotel,2026-06-08,2026-06-10,Summer,Superior,Transient,2,3,0,4,BB,Online,Offline TA/TO,No Deposit,186.35,0,2,0
+HB100722,City Hotel,2025-12-12,2026-02-01,Winter,Standard,Transient,51,3,0,1,BB,Online,Direct,Non Refund,69.67,0,0,1
+HB100723,City Hotel,2025-02-15,2025-07-01,Summer,Superior,Transient,136,2,0,5,BB,Offline,Direct,No Deposit,183.47,0,0,0
+HB100724,Resort Hotel,2026-06-30,2026-08-16,Summer,Standard,Contract,47,2,1,4,BB,Agent,Direct,No Deposit,99.93,0,1,0
+HB100725,City Hotel,2025-03-19,2025-06-12,Summer,Deluxe,Transient,85,3,0,1,HB,Online,Direct,No Deposit,145.01,2,0,0
+HB100726,City Hotel,2025-03-14,2025-06-26,Summer,Standard,Transient-Party,104,2,0,1,BB,Agent,Offline TA/TO,No Deposit,100.75,0,0,0
+HB100727,City Hotel,2025-09-06,2025-09-19,Autumn,Standard,Transient,13,2,2,5,BB,Agent,Corporate,No Deposit,96.73,0,0,0
+HB100728,Resort Hotel,2025-02-16,2025-02-28,Winter,Standard,Transient,12,3,0,3,BB,Offline,Corporate,No Deposit,80.58,0,2,0
+HB100729,Resort Hotel,2025-05-01,2025-06-18,Summer,Standard,Transient,48,2,1,2,BB,Online,Online TA,No Deposit,115.96,0,0,0
+HB100730,City Hotel,2025-08-02,2025-08-29,Summer,Superior,Transient,27,2,1,3,BB,Corporate,Online TA,No Deposit,151.56,0,1,0
+HB100731,City Hotel,2025-08-27,2025-11-25,Autumn,Deluxe,Transient,90,2,1,1,FB,Online,Online TA,No Deposit,138.15,0,1,0
+HB100732,City Hotel,2025-02-25,2025-06-15,Summer,Standard,Group,110,2,0,1,HB,Online,Direct,No Deposit,101.82,0,2,0
+HB100733,City Hotel,2025-12-16,2026-01-07,Winter,Deluxe,Transient,22,1,0,5,BB,Online,Online TA,No Deposit,117.66,0,1,0
+HB100734,City Hotel,2025-04-17,2025-05-01,Spring,Suite,Transient,14,2,0,1,HB,Online,Online TA,Non Refund,189.53,0,0,0
+HB100735,Resort Hotel,2025-02-17,2025-05-04,Spring,Standard,Transient-Party,76,2,0,8,BB,Online,Online TA,No Deposit,96.06,0,1,0
+HB100736,City Hotel,2026-07-27,2026-08-12,Summer,Standard,Transient,16,2,0,8,HB,Offline,Offline TA/TO,No Deposit,96.34,0,1,0
+HB100737,City Hotel,2025-12-03,2026-02-27,Winter,Deluxe,Transient,86,4,0,3,FB,Online,Online TA,Non Refund,107.84,0,0,0
+HB100738,City Hotel,2025-01-26,2025-02-23,Winter,Standard,Transient,28,3,0,3,BB,Online,Groups,No Deposit,66.81,2,1,0
+HB100739,City Hotel,2025-09-14,2025-11-09,Autumn,Standard,Transient-Party,56,3,0,3,BB,Online,Direct,Refundable,96.29,1,2,0
+HB100740,Resort Hotel,2025-01-08,2025-01-13,Winter,Superior,Transient,5,2,1,1,BB,Offline,Online TA,No Deposit,139.63,2,1,0
+HB100741,City Hotel,2026-09-17,2026-11-06,Autumn,Superior,Transient,50,2,1,3,HB,Online,Online TA,No Deposit,132.26,0,0,1
+HB100742,City Hotel,2025-09-10,2025-10-11,Autumn,Standard,Transient,31,2,0,5,BB,Online,Corporate,Refundable,90.68,0,1,0
+HB100743,Resort Hotel,2025-10-30,2025-12-14,Winter,Suite,Transient,45,1,0,2,BB,Agent,Online TA,Refundable,217.41,0,0,0
+HB100744,Resort Hotel,2025-02-25,2025-03-06,Spring,Suite,Transient,9,3,0,3,BB,Online,Online TA,Refundable,185.25,1,0,1
+HB100745,City Hotel,2026-06-10,2026-08-16,Summer,Standard,Transient-Party,67,2,2,4,BB,Online,Online TA,No Deposit,107.15,0,0,0
+HB100746,Resort Hotel,2026-04-19,2026-07-25,Summer,Standard,Transient,97,2,0,3,SC,Corporate,Online TA,Non Refund,111.42,0,3,0
+HB100747,Resort Hotel,2025-01-28,2025-02-09,Winter,Suite,Transient,12,2,0,1,HB,Corporate,Direct,No Deposit,182.58,0,0,0
+HB100748,Resort Hotel,2025-03-19,2025-03-24,Spring,Standard,Transient,5,3,0,3,BB,Online,Direct,No Deposit,97.99,1,1,0
+HB100749,City Hotel,2025-08-04,2025-08-05,Summer,Deluxe,Transient-Party,1,1,0,2,BB,Corporate,Offline TA/TO,No Deposit,110.86,1,0,0
+HB100750,City Hotel,2026-01-21,2026-03-14,Spring,Standard,Transient,52,2,0,6,BB,Online,Corporate,Non Refund,70.87,0,3,0
+HB100751,City Hotel,2025-12-31,2026-02-17,Winter,Suite,Transient,48,2,0,2,BB,Online,Direct,No Deposit,215.81,0,1,0
+HB100752,Resort Hotel,2026-06-10,2026-07-21,Summer,Superior,Group,41,2,0,2,BB,Online,Online TA,No Deposit,165.01,0,2,0
+HB100753,City Hotel,2025-11-08,2025-11-21,Autumn,Standard,Transient,13,2,0,2,BB,Online,Online TA,No Deposit,88.6,2,0,1
+HB100754,City Hotel,2025-01-07,2025-02-01,Winter,Standard,Transient,25,2,0,1,BB,Online,Direct,Refundable,77.67,0,1,1
+HB100755,City Hotel,2025-01-03,2025-02-18,Winter,Standard,Group,46,2,1,8,BB,Online,Online TA,No Deposit,77.6,0,2,1
+HB100756,Resort Hotel,2026-09-15,2026-10-20,Autumn,Standard,Transient,35,2,0,3,BB,Online,Corporate,No Deposit,95.72,0,0,0
+HB100757,City Hotel,2025-12-29,2026-06-12,Summer,Deluxe,Transient,165,2,1,4,BB,Online,Direct,No Deposit,127.3,0,1,1
+HB100758,Resort Hotel,2026-05-23,2026-05-30,Spring,Deluxe,Transient-Party,7,4,1,2,BB,Corporate,Groups,Refundable,100.43,0,1,0
+HB100759,Resort Hotel,2025-10-01,2025-11-30,Autumn,Standard,Transient,60,2,2,3,BB,Online,Direct,No Deposit,104.83,0,2,0
+HB100760,City Hotel,2026-05-21,2026-06-17,Summer,Standard,Transient,27,2,0,10,BB,Offline,Direct,No Deposit,104.55,1,1,0
+HB100761,Resort Hotel,2025-01-15,2025-02-13,Winter,Standard,Transient,29,2,2,1,BB,Agent,Online TA,No Deposit,85.99,2,3,1
+HB100762,City Hotel,2025-07-11,2025-09-13,Autumn,Superior,Transient,64,2,1,2,BB,Online,Offline TA/TO,No Deposit,146.43,0,0,0
+HB100763,Resort Hotel,2026-09-23,2026-11-22,Autumn,Standard,Contract,60,2,2,1,BB,Offline,Direct,No Deposit,101.71,2,2,1
+HB100764,City Hotel,2026-04-30,2026-10-16,Autumn,Deluxe,Transient,169,3,1,1,BB,Agent,Online TA,Non Refund,124.06,0,1,1
+HB100765,Resort Hotel,2025-01-28,2025-02-04,Winter,Standard,Transient,7,2,0,9,BB,Online,Online TA,No Deposit,86.88,0,0,0
+HB100766,City Hotel,2025-02-08,2025-02-13,Winter,Deluxe,Transient,5,2,0,2,BB,Agent,Corporate,No Deposit,91.89,0,1,0
+HB100767,City Hotel,2025-09-30,2025-12-04,Winter,Deluxe,Transient,65,2,0,2,BB,Online,Online TA,No Deposit,95.53,0,3,0
+HB100768,City Hotel,2025-08-19,2025-10-02,Autumn,Standard,Contract,44,2,1,1,HB,Online,Online TA,No Deposit,81.95,0,1,0
+HB100769,Resort Hotel,2025-03-27,2025-04-12,Spring,Deluxe,Transient-Party,16,1,1,1,BB,Agent,Direct,No Deposit,135.5,1,0,0
+HB100770,Resort Hotel,2026-04-19,2026-04-23,Spring,Standard,Transient,4,2,1,1,BB,Agent,Direct,Non Refund,72.0,0,1,0
+HB100771,City Hotel,2025-05-06,2025-05-10,Spring,Superior,Transient,4,2,0,3,BB,Agent,Online TA,No Deposit,125.5,0,0,0
+HB100772,City Hotel,2026-06-21,2026-10-07,Autumn,Standard,Transient,108,1,3,3,BB,Online,Online TA,No Deposit,83.57,0,0,0
+HB100773,Resort Hotel,2025-05-25,2025-06-05,Summer,Superior,Transient,11,3,0,1,BB,Online,Online TA,No Deposit,210.11,1,2,0
+HB100774,City Hotel,2026-06-09,2026-06-29,Summer,Superior,Contract,20,2,0,8,BB,Agent,Online TA,No Deposit,157.75,0,1,0
+HB100775,City Hotel,2025-07-31,2025-08-13,Summer,Deluxe,Transient,13,2,1,2,HB,Agent,Direct,No Deposit,133.97,1,0,0
+HB100776,Resort Hotel,2025-01-25,2025-02-17,Winter,Deluxe,Transient-Party,23,2,2,1,BB,Online,Groups,No Deposit,105.51,0,1,0
+HB100777,Resort Hotel,2026-08-03,2026-08-06,Summer,Deluxe,Transient,3,2,0,1,BB,Online,Online TA,No Deposit,149.73,0,2,0
+HB100778,Resort Hotel,2026-01-29,2026-03-08,Spring,Superior,Group,38,2,1,1,BB,Agent,Online TA,Refundable,139.49,0,2,1
+HB100779,Resort Hotel,2025-03-08,2025-03-11,Spring,Deluxe,Transient,3,2,2,3,BB,Online,Online TA,Refundable,127.87,0,1,0
+HB100780,City Hotel,2025-08-21,2025-11-09,Autumn,Standard,Transient,80,2,0,1,BB,Agent,Online TA,Non Refund,76.86,1,1,1
+HB100781,City Hotel,2025-04-19,2025-05-03,Spring,Standard,Transient-Party,14,2,0,2,BB,Online,Online TA,Non Refund,86.78,1,0,1
+HB100782,City Hotel,2025-05-26,2025-07-05,Summer,Standard,Transient,40,2,0,3,BB,Online,Corporate,No Deposit,105.4,0,2,0
+HB100783,Resort Hotel,2025-04-21,2025-08-02,Summer,Deluxe,Transient,103,2,0,1,BB,Offline,Offline TA/TO,No Deposit,139.17,2,2,0
+HB100784,City Hotel,2025-08-16,2025-10-09,Autumn,Deluxe,Contract,54,2,0,1,BB,Online,Groups,Refundable,107.89,0,0,1
+HB100785,Resort Hotel,2025-04-21,2025-05-30,Spring,Standard,Transient,39,2,0,3,BB,Agent,Corporate,No Deposit,78.27,0,3,0
+HB100786,City Hotel,2026-04-15,2026-05-05,Spring,Standard,Transient,20,2,0,6,BB,Agent,Online TA,No Deposit,74.6,0,1,0
+HB100787,Resort Hotel,2025-02-03,2025-02-24,Winter,Standard,Transient,21,2,0,2,BB,Agent,Offline TA/TO,No Deposit,68.81,1,4,0
+HB100788,City Hotel,2026-09-15,2026-11-10,Autumn,Deluxe,Transient-Party,56,2,0,2,HB,Online,Offline TA/TO,No Deposit,124.99,0,1,0
+HB100789,City Hotel,2026-01-04,2026-06-26,Summer,Deluxe,Transient,173,2,2,2,BB,Online,Offline TA/TO,No Deposit,126.23,0,0,0
+HB100790,City Hotel,2026-08-18,2026-10-12,Autumn,Deluxe,Transient-Party,55,3,0,1,BB,Online,Corporate,No Deposit,103.45,0,3,0
+HB100791,City Hotel,2026-07-08,2026-08-19,Summer,Standard,Group,42,3,0,3,HB,Agent,Offline TA/TO,No Deposit,110.77,0,2,0
+HB100792,Resort Hotel,2026-03-01,2026-05-06,Spring,Deluxe,Transient,66,2,2,4,SC,Online,Online TA,No Deposit,125.8,0,1,0
+HB100793,City Hotel,2026-09-05,2026-10-07,Autumn,Superior,Transient,32,2,0,3,BB,Agent,Online TA,Non Refund,168.96,0,0,1
+HB100794,Resort Hotel,2026-06-02,2026-06-05,Summer,Suite,Group,3,2,0,2,SC,Agent,Online TA,Non Refund,296.79,1,2,0
+HB100795,Resort Hotel,2025-10-09,2025-11-20,Autumn,Superior,Transient,42,2,0,10,BB,Offline,Direct,No Deposit,176.58,0,0,0
+HB100796,Resort Hotel,2025-11-16,2026-04-05,Spring,Standard,Transient,140,2,0,2,BB,Agent,Online TA,No Deposit,73.06,2,2,0
+HB100797,City Hotel,2026-03-19,2026-03-29,Spring,Standard,Transient,10,3,2,2,HB,Agent,Direct,No Deposit,80.84,1,1,0
+HB100798,Resort Hotel,2025-11-11,2026-01-10,Winter,Standard,Transient,60,2,0,1,BB,Online,Direct,Refundable,84.29,0,2,0
+HB100799,City Hotel,2026-01-12,2026-01-23,Winter,Superior,Transient-Party,11,3,0,2,BB,Corporate,Offline TA/TO,No Deposit,122.62,0,0,0
+HB100800,Resort Hotel,2025-10-16,2025-11-24,Autumn,Deluxe,Transient,39,2,0,1,BB,Online,Direct,No Deposit,148.77,0,1,1
+HB100801,Resort Hotel,2026-03-13,2026-03-18,Spring,Deluxe,Transient,5,2,0,9,BB,Agent,Groups,No Deposit,129.21,0,2,0
+HB100802,Resort Hotel,2025-10-04,2025-11-04,Autumn,Deluxe,Transient,31,2,0,3,BB,Online,Offline TA/TO,No Deposit,149.24,0,0,0
+HB100803,City Hotel,2026-08-05,2026-10-15,Autumn,Standard,Transient,71,3,0,5,BB,Online,Corporate,No Deposit,80.49,0,1,0
+HB100804,City Hotel,2026-05-18,2026-06-09,Summer,Standard,Transient,22,4,0,2,BB,Online,Direct,No Deposit,100.53,0,0,1
+HB100805,Resort Hotel,2026-09-16,2026-11-11,Autumn,Deluxe,Contract,56,2,0,3,HB,Online,Corporate,Non Refund,113.1,2,0,0
+HB100806,City Hotel,2026-05-31,2026-08-18,Summer,Deluxe,Transient,79,2,1,1,FB,Online,Corporate,Non Refund,134.14,1,1,0
+HB100807,City Hotel,2025-12-16,2026-04-17,Spring,Deluxe,Transient,122,2,0,1,BB,Online,Online TA,Non Refund,91.7,1,1,1
+HB100808,City Hotel,2026-03-22,2026-04-05,Spring,Deluxe,Transient,14,3,0,2,BB,Agent,Online TA,No Deposit,93.72,0,0,0
+HB100809,City Hotel,2025-12-16,2026-01-11,Winter,Superior,Group,26,4,1,1,HB,Corporate,Direct,No Deposit,128.23,0,1,0
+HB100810,Resort Hotel,2026-08-30,2026-09-07,Autumn,Superior,Contract,8,2,0,3,SC,Corporate,Direct,No Deposit,181.29,1,2,0
+HB100811,Resort Hotel,2025-05-17,2025-11-04,Autumn,Standard,Transient,171,4,0,1,HB,Online,Online TA,No Deposit,87.75,0,0,1
+HB100812,Resort Hotel,2025-08-31,2025-12-31,Winter,Superior,Transient,122,3,0,1,FB,Online,Online TA,No Deposit,150.12,0,2,0
+HB100813,City Hotel,2026-06-27,2026-08-06,Summer,Suite,Transient-Party,40,2,0,8,FB,Online,Direct,No Deposit,201.89,2,0,1
+HB100814,Resort Hotel,2025-02-09,2025-05-11,Spring,Deluxe,Transient,91,2,0,5,BB,Online,Online TA,No Deposit,131.36,0,1,0
+HB100815,City Hotel,2025-08-17,2025-09-24,Autumn,Standard,Transient,38,2,0,1,BB,Offline,Online TA,No Deposit,78.63,1,0,0
+HB100816,City Hotel,2026-07-02,2026-08-21,Summer,Standard,Transient-Party,50,4,1,9,BB,Agent,Online TA,Refundable,96.16,0,2,0
+HB100817,City Hotel,2025-08-11,2025-08-15,Summer,Standard,Transient,4,2,0,3,BB,Online,Corporate,Non Refund,83.91,0,1,0
+HB100818,Resort Hotel,2025-01-06,2025-03-18,Spring,Standard,Transient,71,2,2,2,HB,Online,Online TA,No Deposit,83.18,2,1,0
+HB100819,City Hotel,2025-11-18,2025-11-25,Autumn,Superior,Transient,7,3,0,3,HB,Online,Online TA,No Deposit,141.94,1,0,1
+HB100820,City Hotel,2026-04-13,2026-07-09,Summer,Standard,Transient,87,1,0,2,BB,Online,Groups,No Deposit,100.26,0,1,1
+HB100821,City Hotel,2025-03-16,2025-05-31,Spring,Standard,Transient,76,3,0,2,BB,Online,Offline TA/TO,No Deposit,67.77,0,1,0
+HB100822,City Hotel,2025-01-04,2025-03-08,Spring,Deluxe,Transient,63,2,0,6,BB,Online,Online TA,Non Refund,104.82,0,2,0
+HB100823,City Hotel,2025-04-28,2025-04-29,Spring,Standard,Transient,1,2,0,2,BB,Agent,Online TA,No Deposit,88.59,0,1,0
+HB100824,City Hotel,2026-08-29,2026-09-16,Autumn,Suite,Transient-Party,18,2,0,2,BB,Offline,Online TA,No Deposit,245.13,0,1,0
+HB100825,Resort Hotel,2026-05-19,2026-06-04,Summer,Deluxe,Transient,16,2,0,1,BB,Online,Direct,Non Refund,153.33,0,1,0
+HB100826,City Hotel,2026-07-28,2026-08-20,Summer,Superior,Transient,23,1,0,8,BB,Agent,Corporate,No Deposit,156.99,1,1,1
+HB100827,Resort Hotel,2026-03-17,2026-03-21,Spring,Deluxe,Transient,4,2,0,3,SC,Online,Offline TA/TO,No Deposit,98.01,0,0,0
+HB100828,City Hotel,2025-07-13,2025-11-17,Autumn,Suite,Group,127,2,1,6,SC,Online,Offline TA/TO,No Deposit,243.43,0,2,0
+HB100829,Resort Hotel,2026-01-27,2026-03-09,Spring,Suite,Transient,41,3,2,2,HB,Online,Direct,Non Refund,244.71,0,0,0
+HB100830,City Hotel,2025-01-26,2025-02-14,Winter,Superior,Transient,19,2,0,2,SC,Online,Corporate,No Deposit,118.33,0,0,0
+HB100831,City Hotel,2026-03-11,2026-04-06,Spring,Deluxe,Transient-Party,26,2,0,1,BB,Agent,Direct,No Deposit,120.63,0,0,0
+HB100832,Resort Hotel,2025-06-22,2025-07-22,Summer,Superior,Contract,30,3,0,3,HB,Online,Offline TA/TO,No Deposit,158.08,0,1,0
+HB100833,Resort Hotel,2025-10-27,2025-12-13,Winter,Standard,Transient,47,3,1,1,BB,Offline,Online TA,No Deposit,69.03,1,0,0
+HB100834,City Hotel,2025-11-22,2025-12-29,Winter,Suite,Transient-Party,37,2,0,1,BB,Online,Online TA,No Deposit,163.77,0,0,0
+HB100835,Resort Hotel,2026-02-14,2026-06-13,Summer,Deluxe,Transient,119,4,0,1,BB,Online,Corporate,No Deposit,137.68,0,1,0
+HB100836,Resort Hotel,2025-04-28,2025-06-02,Summer,Standard,Transient,35,3,2,5,SC,Online,Corporate,Refundable,108.74,1,0,0
+HB100837,City Hotel,2025-08-13,2026-01-30,Winter,Superior,Transient-Party,170,4,1,5,BB,Agent,Offline TA/TO,No Deposit,139.91,0,0,1
+HB100838,Resort Hotel,2026-06-16,2026-09-18,Autumn,Superior,Transient-Party,94,2,0,5,HB,Offline,Online TA,Refundable,144.51,0,1,1
+HB100839,City Hotel,2025-04-23,2025-05-05,Spring,Standard,Transient,12,2,0,1,BB,Online,Direct,Non Refund,81.96,1,1,0
+HB100840,Resort Hotel,2025-05-20,2025-09-21,Autumn,Deluxe,Transient,124,2,2,3,HB,Offline,Groups,No Deposit,136.12,0,1,1
+HB100841,City Hotel,2026-07-13,2026-07-19,Summer,Standard,Group,6,3,0,4,FB,Online,Corporate,No Deposit,93.91,0,0,0
+HB100842,City Hotel,2025-01-01,2025-03-27,Spring,Standard,Transient,85,4,1,1,FB,Online,Offline TA/TO,No Deposit,78.38,2,1,1
+HB100843,City Hotel,2025-03-31,2025-04-25,Spring,Superior,Group,25,4,0,2,HB,Online,Online TA,Refundable,158.27,0,0,1
+HB100844,City Hotel,2025-11-16,2026-02-26,Winter,Standard,Transient,102,2,0,3,FB,Corporate,Online TA,No Deposit,63.06,0,0,0
+HB100845,Resort Hotel,2026-07-04,2026-10-11,Autumn,Standard,Transient-Party,99,3,0,4,HB,Online,Online TA,Non Refund,92.7,0,1,1
+HB100846,City Hotel,2025-05-19,2025-08-09,Summer,Standard,Transient,82,2,2,4,FB,Online,Corporate,No Deposit,83.37,0,1,0
+HB100847,City Hotel,2026-05-26,2026-08-12,Summer,Deluxe,Contract,78,2,0,2,SC,Agent,Online TA,Refundable,124.82,1,1,1
+HB100848,City Hotel,2025-09-16,2025-10-05,Autumn,Superior,Transient,19,2,0,3,BB,Online,Corporate,No Deposit,138.64,0,1,0
+HB100849,City Hotel,2025-01-10,2025-01-14,Winter,Deluxe,Transient,4,2,0,2,BB,Agent,Corporate,No Deposit,103.42,0,0,0
+HB100850,City Hotel,2025-09-18,2025-10-15,Autumn,Deluxe,Transient,27,2,0,8,SC,Agent,Direct,Refundable,120.62,1,0,0
+HB100851,Resort Hotel,2025-06-21,2025-07-01,Summer,Standard,Transient,10,3,0,10,BB,Online,Online TA,Refundable,92.64,0,0,0
+HB100852,City Hotel,2025-01-13,2025-03-14,Spring,Deluxe,Transient-Party,60,4,0,1,SC,Corporate,Online TA,Non Refund,93.57,0,2,0
+HB100853,City Hotel,2025-06-17,2025-07-09,Summer,Deluxe,Transient,22,2,1,1,HB,Offline,Direct,No Deposit,125.68,0,1,0
+HB100854,City Hotel,2026-08-19,2027-01-20,Winter,Deluxe,Transient,154,2,1,5,BB,Online,Direct,No Deposit,92.03,0,1,0
+HB100855,City Hotel,2025-11-17,2026-01-08,Winter,Deluxe,Transient,52,3,0,6,HB,Agent,Offline TA/TO,No Deposit,106.13,1,1,0
+HB100856,City Hotel,2025-11-15,2026-02-09,Winter,Deluxe,Transient-Party,86,4,1,5,BB,Agent,Online TA,No Deposit,96.66,0,0,0
+HB100857,City Hotel,2026-09-05,2026-09-12,Autumn,Standard,Transient,7,2,0,1,HB,Online,Direct,No Deposit,94.92,0,2,0
+HB100858,Resort Hotel,2025-11-25,2026-03-02,Spring,Superior,Transient,97,2,1,1,BB,Agent,Groups,No Deposit,166.08,0,0,0
+HB100859,Resort Hotel,2026-07-04,2026-11-01,Autumn,Deluxe,Group,120,3,0,3,BB,Online,Offline TA/TO,No Deposit,127.73,0,0,0
+HB100860,Resort Hotel,2026-02-23,2026-03-29,Spring,Deluxe,Transient,34,2,0,1,SC,Agent,Online TA,No Deposit,111.12,0,3,0
+HB100861,City Hotel,2026-08-29,2026-10-16,Autumn,Suite,Group,48,2,0,1,BB,Online,Direct,No Deposit,246.05,1,1,0
+HB100862,Resort Hotel,2025-04-05,2025-06-17,Summer,Standard,Transient,73,4,0,1,BB,Online,Online TA,No Deposit,104.27,0,1,0
+HB100863,City Hotel,2026-08-04,2026-08-14,Summer,Standard,Transient,10,4,0,2,FB,Online,Online TA,Non Refund,110.7,0,0,0
+HB100864,City Hotel,2025-11-14,2025-12-20,Winter,Superior,Contract,36,3,1,8,BB,Online,Offline TA/TO,Non Refund,148.8,0,1,0
+HB100865,Resort Hotel,2025-08-24,2025-09-19,Autumn,Suite,Transient,26,2,1,2,BB,Offline,Direct,Non Refund,211.92,0,2,0
+HB100866,Resort Hotel,2025-11-30,2025-12-08,Winter,Standard,Transient,8,4,0,2,BB,Agent,Direct,No Deposit,80.93,0,1,0
+HB100867,Resort Hotel,2026-01-11,2026-02-04,Winter,Deluxe,Transient,24,2,0,3,BB,Online,Online TA,No Deposit,117.41,0,2,0
+HB100868,Resort Hotel,2026-04-04,2026-04-07,Spring,Deluxe,Transient,3,2,0,2,BB,Agent,Online TA,No Deposit,106.41,0,2,0
+HB100869,City Hotel,2025-05-17,2025-05-18,Spring,Standard,Transient-Party,1,2,1,3,HB,Agent,Online TA,No Deposit,83.78,0,2,0
+HB100870,City Hotel,2026-08-11,2026-08-18,Summer,Superior,Transient,7,2,0,2,BB,Online,Online TA,No Deposit,162.89,0,2,0
+HB100871,City Hotel,2026-07-01,2026-11-22,Autumn,Standard,Contract,144,2,1,2,BB,Online,Offline TA/TO,No Deposit,75.33,2,3,1
+HB100872,City Hotel,2026-05-28,2026-07-08,Summer,Standard,Transient,41,2,0,1,BB,Online,Online TA,No Deposit,82.55,0,2,0
+HB100873,Resort Hotel,2025-10-23,2026-03-18,Spring,Standard,Transient,146,2,0,5,BB,Agent,Offline TA/TO,Non Refund,81.61,0,1,0
+HB100874,City Hotel,2025-11-16,2025-12-15,Winter,Deluxe,Transient,29,2,0,3,SC,Online,Online TA,Non Refund,104.35,0,0,0
+HB100875,Resort Hotel,2026-07-26,2026-08-14,Summer,Superior,Transient,19,2,3,1,BB,Online,Online TA,No Deposit,179.29,0,0,0
+HB100876,Resort Hotel,2025-12-15,2026-01-20,Winter,Deluxe,Transient,36,2,0,4,FB,Agent,Offline TA/TO,No Deposit,124.06,0,1,0
+HB100877,Resort Hotel,2025-08-17,2025-09-16,Autumn,Deluxe,Group,30,1,0,3,BB,Online,Online TA,No Deposit,116.56,0,2,0
+HB100878,Resort Hotel,2025-09-27,2025-10-02,Autumn,Superior,Transient,5,3,2,3,HB,Agent,Direct,No Deposit,152.65,0,2,1
+HB100879,City Hotel,2025-10-18,2025-12-09,Winter,Standard,Transient,52,2,0,1,HB,Online,Online TA,No Deposit,76.5,0,0,0
+HB100880,City Hotel,2025-06-14,2025-06-26,Summer,Superior,Transient-Party,12,2,0,5,BB,Agent,Online TA,No Deposit,146.34,0,0,0
+HB100881,City Hotel,2025-01-05,2025-02-23,Winter,Standard,Transient,49,2,1,2,SC,Online,Corporate,No Deposit,74.22,1,1,1
+HB100882,City Hotel,2026-01-14,2026-03-09,Spring,Deluxe,Transient,54,2,1,5,BB,Online,Online TA,No Deposit,93.39,1,1,0
+HB100883,Resort Hotel,2025-03-19,2025-03-27,Spring,Deluxe,Transient,8,2,0,1,BB,Online,Online TA,No Deposit,121.1,0,3,0
+HB100884,Resort Hotel,2026-02-14,2026-02-17,Winter,Suite,Transient,3,2,0,2,BB,Online,Online TA,Non Refund,194.6,0,0,1
+HB100885,City Hotel,2026-07-28,2026-10-12,Autumn,Standard,Transient,76,2,0,2,BB,Online,Online TA,No Deposit,89.07,0,0,1
+HB100886,City Hotel,2025-05-12,2025-06-13,Summer,Superior,Transient-Party,32,2,1,4,BB,Online,Offline TA/TO,No Deposit,191.45,0,0,0
+HB100887,Resort Hotel,2026-08-24,2026-08-27,Summer,Deluxe,Transient,3,2,0,3,BB,Online,Offline TA/TO,Refundable,139.74,1,0,0
+HB100888,Resort Hotel,2025-02-11,2025-08-04,Summer,Superior,Transient,174,3,1,10,BB,Online,Online TA,No Deposit,195.36,0,1,0
+HB100889,City Hotel,2025-03-30,2025-04-02,Spring,Standard,Transient,3,2,0,1,HB,Corporate,Online TA,No Deposit,81.65,0,0,0
+HB100890,City Hotel,2026-02-06,2026-04-07,Spring,Standard,Transient,60,3,0,1,BB,Online,Offline TA/TO,No Deposit,85.48,0,3,0
+HB100891,City Hotel,2025-10-23,2026-04-02,Spring,Standard,Transient,161,1,0,2,BB,Agent,Offline TA/TO,No Deposit,79.35,0,1,1
+HB100892,Resort Hotel,2025-10-22,2025-11-05,Autumn,Standard,Transient,14,2,0,3,HB,Agent,Online TA,Non Refund,92.36,0,1,0
+HB100893,Resort Hotel,2026-09-08,2026-09-16,Autumn,Standard,Transient-Party,8,2,0,6,BB,Agent,Online TA,Refundable,82.04,0,1,0
+HB100894,City Hotel,2026-06-10,2026-06-16,Summer,Standard,Transient,6,3,0,3,BB,Online,Direct,No Deposit,108.7,0,0,0
+HB100895,Resort Hotel,2026-09-29,2026-10-17,Autumn,Standard,Group,18,2,0,5,BB,Online,Groups,No Deposit,87.04,1,0,0
+HB100896,City Hotel,2026-02-26,2026-03-03,Spring,Deluxe,Transient-Party,5,2,0,5,HB,Online,Direct,No Deposit,110.59,0,1,0
+HB100897,Resort Hotel,2025-01-23,2025-03-24,Spring,Standard,Transient,60,2,0,2,BB,Online,Direct,Non Refund,89.57,0,3,0
+HB100898,Resort Hotel,2026-07-29,2026-08-01,Summer,Deluxe,Contract,3,4,0,5,BB,Agent,Direct,Non Refund,150.26,0,0,0
+HB100899,City Hotel,2025-05-23,2025-06-29,Summer,Standard,Group,37,2,0,3,BB,Online,Online TA,No Deposit,109.13,1,0,1
+HB100900,Resort Hotel,2025-05-25,2025-11-17,Autumn,Standard,Transient-Party,176,2,1,4,BB,Online,Direct,No Deposit,80.59,1,0,1
+HB100901,City Hotel,2025-08-13,2025-11-05,Autumn,Deluxe,Transient,84,2,1,1,SC,Offline,Direct,No Deposit,110.38,0,0,0
+HB100902,Resort Hotel,2026-05-18,2026-07-06,Summer,Deluxe,Transient-Party,49,2,0,2,BB,Online,Online TA,No Deposit,147.81,1,1,0
+HB100903,Resort Hotel,2026-09-08,2026-09-27,Autumn,Standard,Transient-Party,19,3,0,6,BB,Online,Online TA,No Deposit,92.89,0,1,0
+HB100904,City Hotel,2025-04-14,2025-06-03,Summer,Standard,Transient,50,2,1,2,HB,Agent,Direct,No Deposit,80.57,1,3,0
+HB100905,City Hotel,2025-02-08,2025-03-18,Spring,Superior,Transient,38,4,0,2,HB,Online,Direct,No Deposit,153.55,0,1,0
+HB100906,Resort Hotel,2025-07-17,2025-08-15,Summer,Suite,Transient,29,2,1,3,HB,Online,Online TA,No Deposit,290.61,0,1,0
+HB100907,City Hotel,2026-08-02,2026-08-09,Summer,Standard,Transient,7,4,0,3,BB,Online,Direct,Refundable,82.3,1,0,0
+HB100908,City Hotel,2026-01-26,2026-05-11,Spring,Deluxe,Transient,105,1,1,1,HB,Online,Direct,No Deposit,108.5,0,1,0
+HB100909,Resort Hotel,2025-06-28,2025-07-29,Summer,Standard,Transient,31,2,0,6,BB,Corporate,Offline TA/TO,Non Refund,87.3,0,1,0
+HB100910,Resort Hotel,2026-07-08,2026-07-19,Summer,Superior,Transient,11,3,0,5,FB,Offline,Direct,Non Refund,189.55,0,1,0
+HB100911,City Hotel,2026-03-24,2026-04-17,Spring,Standard,Transient,24,3,1,6,BB,Offline,Direct,No Deposit,68.2,0,1,0
+HB100912,Resort Hotel,2026-05-15,2026-06-11,Summer,Standard,Contract,27,3,2,4,BB,Online,Online TA,Non Refund,98.81,2,1,1
+HB100913,City Hotel,2025-01-15,2025-04-12,Spring,Standard,Transient,87,2,0,1,HB,Agent,Direct,Refundable,75.84,0,1,0
+HB100914,City Hotel,2026-09-15,2026-11-21,Autumn,Deluxe,Transient,67,2,0,3,HB,Agent,Offline TA/TO,No Deposit,135.32,0,0,0
+HB100915,City Hotel,2025-10-16,2025-12-29,Winter,Deluxe,Transient,74,3,0,3,BB,Online,Direct,No Deposit,93.79,0,2,1
+HB100916,Resort Hotel,2026-04-23,2026-04-23,Spring,Standard,Contract,0,3,0,1,FB,Agent,Corporate,No Deposit,93.67,0,0,0
+HB100917,Resort Hotel,2025-08-19,2025-09-16,Autumn,Deluxe,Transient-Party,28,2,0,2,BB,Agent,Online TA,No Deposit,135.63,1,2,0
+HB100918,City Hotel,2026-02-24,2026-03-30,Spring,Standard,Transient,34,1,0,3,BB,Online,Online TA,No Deposit,84.42,0,0,0
+HB100919,City Hotel,2025-06-06,2025-06-07,Summer,Standard,Transient,1,2,0,5,SC,Offline,Direct,Non Refund,101.5,0,1,0
+HB100920,Resort Hotel,2026-07-04,2026-07-19,Summer,Superior,Transient,15,2,0,5,BB,Agent,Groups,No Deposit,200.95,0,1,0
+HB100921,City Hotel,2026-03-17,2026-05-28,Spring,Standard,Transient,72,2,0,3,BB,Corporate,Direct,No Deposit,68.68,1,2,0
+HB100922,Resort Hotel,2025-04-07,2025-04-14,Spring,Standard,Transient-Party,7,2,0,1,HB,Agent,Online TA,No Deposit,93.01,0,2,0
+HB100923,Resort Hotel,2026-02-15,2026-03-26,Spring,Standard,Transient,39,2,1,3,BB,Online,Online TA,No Deposit,72.41,0,0,0
+HB100924,City Hotel,2025-10-16,2025-10-28,Autumn,Superior,Contract,12,2,1,1,BB,Offline,Corporate,Refundable,129.6,0,2,0
+HB100925,Resort Hotel,2025-09-11,2025-09-11,Autumn,Superior,Transient,0,2,0,6,BB,Online,Online TA,No Deposit,178.16,0,1,0
+HB100926,Resort Hotel,2025-07-15,2025-07-29,Summer,Standard,Transient,14,2,0,8,BB,Online,Offline TA/TO,No Deposit,89.91,1,0,0
+HB100927,Resort Hotel,2026-08-21,2027-01-22,Winter,Superior,Transient,154,4,0,2,BB,Agent,Online TA,Non Refund,153.43,0,0,0
+HB100928,Resort Hotel,2026-06-06,2026-08-26,Summer,Deluxe,Transient,81,2,0,4,BB,Agent,Online TA,No Deposit,160.37,0,1,1
+HB100929,Resort Hotel,2026-06-01,2026-10-20,Autumn,Standard,Transient,141,3,1,4,HB,Online,Online TA,No Deposit,87.23,0,0,0
+HB100930,Resort Hotel,2026-09-27,2026-10-31,Autumn,Standard,Transient,34,2,0,1,BB,Offline,Offline TA/TO,Non Refund,85.99,1,3,0
+HB100931,Resort Hotel,2025-04-28,2025-05-04,Spring,Suite,Transient,6,2,0,1,BB,Online,Online TA,No Deposit,201.99,0,3,0
+HB100932,City Hotel,2025-06-08,2025-07-19,Summer,Standard,Transient,41,2,0,2,BB,Agent,Online TA,No Deposit,97.85,0,1,0
+HB100933,City Hotel,2025-08-16,2025-09-16,Autumn,Standard,Transient,31,2,0,4,BB,Offline,Direct,Non Refund,99.76,0,0,0
+HB100934,City Hotel,2025-08-04,2025-11-04,Autumn,Standard,Transient,92,1,1,2,BB,Online,Online TA,Non Refund,86.04,0,2,0
+HB100935,City Hotel,2025-01-15,2025-01-20,Winter,Superior,Transient,5,1,0,4,SC,Online,Online TA,No Deposit,144.24,0,1,0
+HB100936,City Hotel,2025-06-06,2025-07-10,Summer,Standard,Transient,34,2,0,10,HB,Online,Online TA,Non Refund,98.46,0,1,0
+HB100937,City Hotel,2025-09-18,2025-09-26,Autumn,Standard,Transient,8,2,2,1,BB,Offline,Offline TA/TO,No Deposit,73.46,0,0,0
+HB100938,Resort Hotel,2025-06-06,2025-06-26,Summer,Superior,Transient,20,4,0,3,BB,Online,Offline TA/TO,No Deposit,203.85,0,0,0
+HB100939,Resort Hotel,2025-02-16,2025-04-25,Spring,Standard,Transient,68,2,0,7,BB,Online,Online TA,Non Refund,75.52,0,0,0
+HB100940,Resort Hotel,2025-11-20,2025-12-23,Winter,Superior,Transient,33,3,1,7,BB,Online,Direct,No Deposit,130.87,0,0,0
+HB100941,Resort Hotel,2025-05-10,2025-06-03,Summer,Standard,Transient,24,2,0,2,BB,Agent,Online TA,No Deposit,92.37,0,2,0
+HB100942,Resort Hotel,2026-02-15,2026-03-13,Spring,Standard,Transient,26,3,2,1,BB,Offline,Offline TA/TO,Non Refund,80.8,0,0,0
+HB100943,City Hotel,2025-04-05,2025-05-07,Spring,Standard,Transient,32,2,0,3,HB,Online,Online TA,No Deposit,78.75,0,2,0
+HB100944,City Hotel,2026-09-19,2026-12-05,Winter,Deluxe,Transient-Party,77,2,0,6,BB,Agent,Online TA,Refundable,115.37,0,1,0
+HB100945,City Hotel,2025-10-19,2026-02-03,Winter,Deluxe,Transient,107,4,0,3,BB,Corporate,Offline TA/TO,No Deposit,109.54,0,3,0
+HB100946,Resort Hotel,2025-10-10,2026-02-25,Winter,Suite,Transient,138,2,0,2,BB,Online,Offline TA/TO,Refundable,195.11,3,0,0
+HB100947,City Hotel,2025-03-10,2025-05-26,Spring,Suite,Transient,77,3,0,4,BB,Online,Online TA,No Deposit,213.47,0,2,0
+HB100948,Resort Hotel,2025-01-11,2025-01-30,Winter,Superior,Transient,19,2,0,6,BB,Agent,Offline TA/TO,Refundable,121.45,1,1,1
+HB100949,City Hotel,2025-09-11,2025-11-09,Autumn,Superior,Contract,59,3,1,2,BB,Offline,Direct,No Deposit,179.49,0,0,1
+HB100950,Resort Hotel,2026-07-04,2026-08-03,Summer,Standard,Transient,30,1,0,3,BB,Online,Online TA,No Deposit,118.99,1,2,1
+HB100951,City Hotel,2025-05-14,2025-05-29,Spring,Standard,Transient,15,3,1,3,BB,Online,Groups,No Deposit,88.61,0,3,0
+HB100952,Resort Hotel,2025-01-23,2025-04-24,Spring,Superior,Group,91,3,0,1,BB,Online,Offline TA/TO,No Deposit,153.07,0,2,0
+HB100953,Resort Hotel,2025-12-12,2025-12-14,Winter,Standard,Transient,2,3,1,8,BB,Online,Groups,No Deposit,76.72,0,0,0
+HB100954,Resort Hotel,2025-10-29,2026-02-17,Winter,Deluxe,Transient,111,2,1,7,FB,Online,Corporate,No Deposit,125.14,0,0,0
+HB100955,City Hotel,2025-12-29,2026-01-30,Winter,Standard,Transient,32,2,0,5,BB,Agent,Groups,No Deposit,79.71,0,2,0
+HB100956,Resort Hotel,2026-01-31,2026-03-24,Spring,Deluxe,Transient,52,2,0,3,BB,Online,Online TA,No Deposit,120.75,0,1,0
+HB100957,Resort Hotel,2025-08-06,2025-09-30,Autumn,Deluxe,Transient,55,4,0,3,BB,Agent,Corporate,Non Refund,126.85,0,0,0
+HB100958,Resort Hotel,2025-05-21,2025-09-06,Autumn,Standard,Transient,108,2,0,1,BB,Agent,Direct,No Deposit,107.64,0,4,1
+HB100959,City Hotel,2026-09-08,2026-10-30,Autumn,Superior,Contract,52,4,0,8,HB,Online,Groups,No Deposit,143.96,0,0,0
+HB100960,Resort Hotel,2025-07-29,2025-09-16,Autumn,Standard,Transient,49,3,1,2,BB,Agent,Groups,No Deposit,89.01,0,0,0
+HB100961,Resort Hotel,2026-09-15,2026-09-18,Autumn,Superior,Transient,3,3,0,1,BB,Agent,Online TA,No Deposit,190.34,0,2,0
+HB100962,Resort Hotel,2026-09-08,2026-10-16,Autumn,Deluxe,Transient,38,1,0,2,BB,Offline,Direct,Non Refund,112.02,0,0,1
+HB100963,Resort Hotel,2026-04-05,2026-04-13,Spring,Deluxe,Transient,8,2,1,8,HB,Agent,Offline TA/TO,Non Refund,119.68,0,0,0
+HB100964,City Hotel,2025-12-22,2026-02-28,Winter,Superior,Transient,68,2,0,5,BB,Online,Online TA,Refundable,145.73,0,0,0
+HB100965,Resort Hotel,2025-11-20,2025-12-27,Winter,Standard,Transient,37,2,0,1,BB,Agent,Direct,No Deposit,91.64,0,1,0
+HB100966,Resort Hotel,2025-05-13,2025-07-10,Summer,Deluxe,Transient,58,2,0,7,BB,Online,Online TA,No Deposit,119.9,0,0,0
+HB100967,Resort Hotel,2025-05-07,2025-05-09,Spring,Deluxe,Transient-Party,2,3,0,1,FB,Corporate,Direct,No Deposit,97.92,0,3,0
+HB100968,City Hotel,2025-04-16,2025-04-20,Spring,Deluxe,Group,4,2,0,4,BB,Online,Offline TA/TO,No Deposit,116.83,0,0,1
+HB100969,City Hotel,2026-08-27,2026-10-30,Autumn,Standard,Transient,64,2,3,1,HB,Online,Groups,No Deposit,89.76,0,2,0
+HB100970,Resort Hotel,2026-01-13,2026-01-16,Winter,Standard,Transient,3,1,0,4,BB,Online,Online TA,No Deposit,78.62,0,0,0
+HB100971,City Hotel,2025-02-20,2025-02-23,Winter,Suite,Transient,3,3,0,1,BB,Online,Offline TA/TO,No Deposit,197.76,0,0,0
+HB100972,Resort Hotel,2025-01-29,2025-01-29,Winter,Standard,Transient,0,4,0,5,BB,Corporate,Online TA,No Deposit,79.07,0,2,0
+HB100973,City Hotel,2026-04-07,2026-08-24,Summer,Superior,Transient,139,2,0,9,BB,Agent,Direct,No Deposit,175.38,0,0,1
+HB100974,City Hotel,2025-10-23,2025-12-30,Winter,Deluxe,Transient,68,2,0,4,BB,Offline,Online TA,No Deposit,112.49,0,0,0
+HB100975,City Hotel,2025-10-24,2025-11-15,Autumn,Standard,Transient,22,2,2,5,BB,Online,Direct,No Deposit,97.55,1,1,1
+HB100976,City Hotel,2026-02-11,2026-03-01,Spring,Standard,Group,18,2,0,5,BB,Agent,Online TA,No Deposit,70.58,0,0,0
+HB100977,City Hotel,2026-09-05,2026-09-27,Autumn,Standard,Transient,22,3,0,1,BB,Online,Online TA,Non Refund,82.51,0,1,1
+HB100978,Resort Hotel,2026-02-09,2026-04-25,Spring,Standard,Transient,75,2,0,1,SC,Online,Groups,No Deposit,82.48,0,0,1
+HB100979,Resort Hotel,2025-12-12,2026-02-05,Winter,Superior,Transient,55,2,0,3,BB,Offline,Online TA,No Deposit,136.11,0,0,0
+HB100980,City Hotel,2026-09-14,2026-09-24,Autumn,Superior,Transient,10,2,0,5,BB,Agent,Direct,No Deposit,171.41,0,1,0
+HB100981,Resort Hotel,2026-02-24,2026-03-06,Spring,Suite,Contract,10,2,0,3,BB,Online,Online TA,No Deposit,205.34,0,2,0
+HB100982,City Hotel,2025-07-01,2025-07-06,Summer,Deluxe,Transient,5,2,0,2,SC,Online,Offline TA/TO,No Deposit,116.09,2,3,0
+HB100983,City Hotel,2025-01-01,2025-02-25,Winter,Deluxe,Transient,55,3,2,3,HB,Agent,Offline TA/TO,No Deposit,105.9,3,0,0
+HB100984,City Hotel,2026-07-21,2026-10-02,Autumn,Standard,Group,73,2,0,3,HB,Agent,Online TA,No Deposit,92.13,1,1,0
+HB100985,Resort Hotel,2026-01-06,2026-01-22,Winter,Standard,Transient,16,2,0,1,HB,Offline,Online TA,Non Refund,84.24,0,2,0
+HB100986,City Hotel,2026-03-07,2026-03-08,Spring,Standard,Transient,1,2,0,3,BB,Corporate,Online TA,No Deposit,72.18,0,1,0
+HB100987,Resort Hotel,2025-11-05,2025-11-09,Autumn,Suite,Transient,4,2,0,2,HB,Online,Corporate,No Deposit,253.85,0,0,0
+HB100988,Resort Hotel,2025-05-17,2025-10-11,Autumn,Standard,Transient,147,3,0,2,HB,Online,Online TA,Refundable,104.98,0,1,0
+HB100989,Resort Hotel,2025-07-21,2025-08-08,Summer,Standard,Transient,18,3,0,3,BB,Online,Corporate,No Deposit,86.77,0,0,0
+HB100990,City Hotel,2026-03-12,2026-05-25,Spring,Standard,Transient,74,2,0,2,BB,Agent,Direct,No Deposit,91.9,0,1,0
+HB100991,Resort Hotel,2025-11-09,2025-12-29,Winter,Standard,Transient-Party,50,2,0,2,BB,Online,Corporate,No Deposit,82.93,0,1,0
+HB100992,Resort Hotel,2025-04-27,2025-05-22,Spring,Superior,Transient,25,1,1,1,BB,Online,Direct,Refundable,133.76,0,2,0
+HB100993,City Hotel,2026-07-29,2026-08-10,Summer,Deluxe,Contract,12,4,2,1,BB,Online,Corporate,No Deposit,119.36,0,1,0
+HB100994,City Hotel,2025-09-01,2025-09-07,Autumn,Superior,Contract,6,2,0,1,BB,Online,Direct,No Deposit,142.24,0,2,0
+HB100995,City Hotel,2026-06-21,2026-08-09,Summer,Deluxe,Transient,49,2,0,5,FB,Agent,Corporate,No Deposit,114.2,1,0,1
+HB100996,City Hotel,2026-08-25,2026-11-08,Autumn,Deluxe,Transient,75,2,0,7,BB,Agent,Offline TA/TO,No Deposit,106.83,0,2,0
+HB100997,City Hotel,2025-03-16,2025-05-08,Spring,Deluxe,Transient-Party,53,2,0,3,FB,Offline,Direct,No Deposit,122.33,0,0,1
+HB100998,City Hotel,2026-01-21,2026-03-01,Spring,Deluxe,Transient,39,4,0,1,BB,Offline,Corporate,No Deposit,124.47,0,0,0
+HB100999,Resort Hotel,2025-07-29,2025-07-31,Summer,Superior,Transient,2,3,2,2,BB,Agent,Direct,No Deposit,209.55,0,0,0
+HB101000,Resort Hotel,2026-04-20,2026-09-15,Autumn,Deluxe,Transient,148,3,0,3,BB,Online,Offline TA/TO,No Deposit,116.51,0,1,1
